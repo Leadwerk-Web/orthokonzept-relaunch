@@ -1,0 +1,11 @@
+# Spiegel der bisherigen Seite (per _werkzeuge/spiegeln.py erzeugbar)
+/original/
+# Quellen des Konfigurators aus einem privaten Repository, nicht veröffentlichen
+/theynis-configurator/
+/_theynis-configurator-v1-maerz/
+# Vorschau-Build (eigener Zweig gh-pages)
+/_pages_root/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

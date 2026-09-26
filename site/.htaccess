@@ -1,0 +1,47 @@
+# orthoKonzept – statische Auslieferung (Apache, z. B. Mittwald)
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset utf-8
+AddType image/avif .avif
+AddType image/webp .webp
+AddType application/manifest+json .webmanifest
+AddType text/plain .txt
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # HTTPS und www erzwingen
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} !^www\. [NC]
+  RewriteRule ^ https://www.orthokonzept.de%{REQUEST_URI} [L,R=301]
+  # Doppelte Seiten aus dem alten WordPress
+  RewriteRule ^jobs-2/?$ /jobs/ [L,R=301]
+  RewriteRule ^leistungen/bewegungsanalysen/laufbandanalyse-2/?$ /leistungen/bewegungsanalysen/laufbandanalyse/ [L,R=301]
+  RewriteRule ^category/allgemein/?$ /aktuelles/ [L,R=301]
+  # Alte WordPress-Pfade abfangen
+  RewriteRule ^(wp-admin|wp-login\.php|xmlrpc\.php|feed)(/.*)?$ / [L,R=301]
+  # Verzeichnisse immer mit Schrägstrich
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.*[^/])$ /$1/ [L,R=301]
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  <FilesMatch "\.(avif|webp|jpg|png|svg|woff2|mp4|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(html|xml|txt|json|webmanifest)$">
+    Header set Cache-Control "public, max-age=600, must-revalidate"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml text/plain application/xml application/manifest+json
+</IfModule>

@@ -1,0 +1,1192 @@
+
+===== / | Orthopädieschuhtechnik - orthoKonzept GmbH Karlsruhe 
+  -- sec cols=0 bg=9 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h1 ORTHOPÄDISCHE SCHUHTECHNIK
+    T Hier auf unserer Homepage haben wir für Sie einige Informationen rund um das Thema der Orthopädieschuhtechnik zusammenge
+    BTN MEHR ERFAHREN leistungen/orthopaedie/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 Unsere Referenzen
+    GAL 10
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 VOM MAßSCHUH BIS ZUR SPORTLER-VERSORGUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T orthoKonzept ist ein Unternehmen aus dem Bereich der Orthopädieschuhtechnik . Unsere Produkte und Dienstleistungen stamm
+    T Wir freuen uns auf Sie.
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG wp-content/uploads/2023/03/sohlen.png Herstellung orthopädischer Maß
+    H h3 ORTHOPÄDISCHE MAßSCHUHE
+    T Ein orthopädischer Maßschuh ist ein in Einzelanfertigung hergestellter Maßschuh, der individuell gefertigt wird.
+    IMG wp-content/uploads/2026/04/THeynis.png 
+    H h3 THEYNIS - DIE LÖSUNG FÜR DEN SOMMER
+    T THeynis sind mehr als nur Schuhe – sie sind ein Statement für Gesundheit, Komfort und Individualität, so einzigartig wie
+    IMG wp-content/uploads/2023/03/einlagen.png Fuß steht auf einer orthopädis
+    H h3 ORTHOPÄDISCHE EINLAGEN
+    T Einlagen sind individuell angefertigte orthopädische Hilfsmittel zur Stützung von Fußdeformitäten.
+    IMG wp-content/uploads/2026/04/Struempfe-2.png 
+    H h3 KOMPRESSIONSVERSORGUNG
+    T Kompressionsstrümpfe erzeugen Druck auf das Beingewebe, um das geschädigte Venensystem zu entlasten.
+    IMG wp-content/uploads/2023/03/Bandagen-Orthesen-home.webp Bein mit Bandage
+    H h3 BANDAGEN &amp; ORTHESEN
+    T Orthopädische Bandagen sowie Orthesen dienen zur Therapie und Prophylaxe von Verletzungen &amp; Erkrankungen.
+    IMG wp-content/uploads/2023/03/ganganalyse.png Person läuft auf einem Laufban
+    H h3 LAUFBAND- &amp; GANGANALYSE
+    T Wir erkennen Problematiken des Bewegungsapparates und können so eine optimale Therapie entwerfen.
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    BTN ZU UNSEREN LEISTUNGEN leistungen/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 BRAUCHEN SIE HILFE?
+    T Unsere Mitarbeiter hören sich gern Ihr Anliegen an und beraten Sie mit Ihrem Expertenwissen. Gerne können wir auch einen
+    BTN TERMIN VEREINBAREN kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element background-parallax-left e-flex e-con-boxe
+    IMG -content/uploads/2023/03/Sportlerberatung-e1681304659573.png zwei Bilder von Menschen beim 
+    H h2 SPORTLERBERATUNG UND -VERSORGUNG
+    T Im Rahmen unserer langjährigen Zusammenarbeit mit Lauf- und Walkingspezialisten sowie mehrerer Sportärzte, die auch für 
+    BTN HIER BERATEN LASSEN kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 PRAKTISCHE HELFER FÜR DEN ALLTAG
+    T Passend zu unseren Leistungen bieten wir in unserem Geschäft auch Produkte rund um die Themen Fuß, Schuh und Kompression
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG wp-content/uploads/2023/03/Hautpflege_Ellipse.png Allpresan Fußcreme zwei Produk
+    IMG wp-content/uploads/2023/03/Impregnierspray_Ellipse.png Impregnierspray Bufalo Aqua St
+    IMG wp-content/uploads/2023/09/kompression-sonderangebote.png Kompressionssocken
+    IMG wp-content/uploads/2023/03/Ballenschale_Ellipse.png Ballenschale Ellipse Para
+    IMG wp-content/uploads/2023/09/teufelssalbe-ellipse-1.png teufelssalbe-ellipse
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    BTN UNSER SORTIMENT produkte/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 AKTUELLES
+    POSTS 6
+    BTN WEITERE BEITRÄGE aktuelles/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN kontakt/index.html
+
+===== 20-turmbergrennen/ | 20. Turmbergrennen - orthoKonzept | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Als Sponsor im Radsport unterwegs… Am vergangenen Sonntag waren wir als Sponsor im Radsport aktiv. Das 20. Turmbergrenne
+    IMG ../wp-content/uploads/2023/08/Turmbergrennen_stehend.jpg Turmbergrennen_stehend
+
+===== 39-atruvia-baden-marathon-karlsruhe-2023/ | 39. Atruvia Baden-Marathon Karlsruhe 2023 – Leadwerk & Rennwerk vor Ort | Orthopädie, Pflege & Aktionen | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Am Sonntag, 17.09.2023 war mal wieder Marathon… Wir hatten mal wieder die Gelegenheit zusammen mit unserem Kooperationsp
+    IMG ../wp-content/uploads/2023/11/1700646772750-1024x768.jpg Marathon Karlsruhe 2023
+
+===== aktuelles/ | Neuigkeiten 2024 – orthoKonzept: Events, Sport & Engagement im Überblick | Baden-Marathon, Kreispokal & mehr 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 AKTUELLES
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HALTEN SIE AUF DEM LAUFENDEN!
+    POSTS 20
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== altstadtlauf-ettlingen-2025/ | Altstadtlauf Ettlingen 2025 | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Ganz aktuell war der Altstadtlauf in Ettlingen. Dieses Jahr waren auch wir mal wieder als Unterstützer mit von der Parti
+    IMG uploads/2025/12/Standbild-mit-Mitarbeitern-und-Laeuferin.png Standbild mit Mitarbeitern und
+
+===== anfahrt/ | Anfahrt orthoKonzept Karlsruhe – So finden Sie uns! Adresse, Kontakt & Öffnungszeiten 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h1 ANFAHRT
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 IHR WEG ZU UNS
+    MAP
+    IMG ../wp-content/uploads/2023/03/Logo-Ortho-Konzept_200.png Logo OrthoKonzept transparent
+    H h3 orthoKonzept GmbH
+    T Hirschstraße 35 a 76133 Karlsruhe
+    T Tel. 0721 1208575 Fax 0721 1208576
+    T info@orthokonzept.de www.orthokonzept.de
+    T Montag – Freitag: 09.00 – 13.00 Uhr | 14.00 – 18.00 Uhr oder nach Vereinbarung
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== atruvia-baden-marathon-2024/ | Atruvia Baden-Marathon 2024 – Infos, Tipps & kreative Aktionen von orthoKonzept | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Im Vorfeld des 40. Atruvia Baden-Marathons in Karlsruhe, der am 15.09.24 stattfand, waren wir auch wieder mit unserem In
+    IMG ../wp-content/uploads/2024/10/Marathon-2024-2-1024x981.jpg Sprühaktion beim Baden-Maratho
+
+===== auslosung-orthokonzept-ah-pokal-2023/ | orthoKonzept AH-Pokal 2023 – Auslosung & Startschuss für den Fußball-Kreispokal | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Der orthoKonzept AH-Kreispokal geht in eine neue Runde. Die Auslosung für den diesjährig ausgetragenen Pokalwettbewerb d
+    IMG /2023/05/orthoKonzept_AH_Kreispokalauslosung_2023_klein.jpeg orthoKonzept_AH_Kreispokalausl
+
+===== category/allgemein/ | Allgemein Archive - orthoKonzept 
+  -- sec cols=1 bg=0 
+    T 24 Apr. Träublelauf 2026 – Weingarten Posted at 18:09h in Allgemein by Ortheune Kaum zu glauben, aber wahr: Der Träublel
+
+===== datenschutzerklaerung/ | Datenschutzerklärung - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h1 DATENSCHUTZERKLÄRUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T 1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was m
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== erklaerung-zur-barrierefreiheit/ | erklaerung-zur-barrierefreiheit - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Erklärung zur Barrierefreiheit Die orthoKonzept GmbH ist bemüht, ihre Website in Einklang mit § 12a Behindertengleichste
+
+===== finale-orthokonzept-ah-kreispokal-2024/ | Finale orthoKonzept AH-Kreispokal 2024: Sieger SpVgg Söllingen | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Im Juli 2024 fand das diesjährige Finale im orthoKonzept Kreispokal der AH-Fußballmannschaften von Karlsruhe statt. Wir 
+    IMG ontent/uploads/2024/10/Finale-2024-Kreispokal-2-1024x592.jpg Siegerehrung Finale orthoKonze
+
+===== finale-orthokonzept-ah-kreispokal-2025/ | Finale orthoKonzept AH-Kreispokal 2025: Sieger FV Leopoldshafen | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Im Juli 2025 fand wieder einmal das diesjährige Finale im orthoKonzept Kreispokal der AH-Fußballmannschaften von Karlsru
+    IMG ../wp-content/uploads/2025/07/IMG_5962-1024x683.jpg Siegerehrung Finale orthoKonze
+
+===== impressum/ | Impressum - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h1 IMPRESSUM
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T orthoKonzept GmbH Geschäftsführende Gesellschafter: Gunnar Heyne, Rainer Granget und Jan Theune Hirschstr. 35a 76133 Kar
+    IMG ../wp-content/uploads/2023/03/Logo-Ortho-Konzept_200.png Logo OrthoKonzept transparent
+    H h3 orthoKonzept GmbH
+    T Hirschstraße 35 a 76133 Karlsruhe
+    T Tel. 0721 1208575 Fax 0721 1208576
+    T info@orthokonzept.de www.orthokonzept.de
+    T Montag – Freitag: 09.00 – 13.00 Uhr | 14.00 – 18.00 Uhr oder nach Vereinbarung
+    BTN ANFAHRT - IHR WEG ZU UNS ../anfahrt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== jobs-2/ | Jobs - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 JOBS
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSER TEAM BRAUCHT VERSTÄRKUNG!
+    ACC ['Unsere Türen stehen offen: Ini']
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== jobs/ | Jobs - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 JOBS
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSER TEAM BRAUCHT VERSTÄRKUNG!
+    ACC ['Unsere Türen stehen offen: Ini']
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== kammersiegerin-und-2-landessiegerin-orthopaedieschuhtechnik-baden-wuerttemberg/ | Erfolg in der Orthopädieschuhtechnik: 1. Kammersiegerin & 2. Landessiegerin | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Unsere Auszubildende konnte dieses Jahr mit ihrer tollen Arbeit sogar Preise abräumen… Bei der Deutschen Meisterschaft i
+    IMG /IMG_20220920_104559_resized_20220922_091347164-768x1024.jpg Gesellenstück Orthopädieschuht
+
+===== kontakt/ | Kontakt - orthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 KONTAKT
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NEHMEN SIE JETZT KONTAKT ZU UNS AUF!
+    T window.formcraftLogic = window.formcraftLogic || {}; window.formcraftLogic[1] = []; 1 Step 1 @media (max-width : 480px) 
+    IMG ../wp-content/uploads/2023/03/Logo-Ortho-Konzept_200.png Logo OrthoKonzept transparent
+    H h3 orthoKonzept GmbH
+    T Hirschstraße 35 a 76133 Karlsruhe
+    T Tel. 0721 1208575 Fax 0721 1208576
+    T info@orthokonzept.de www.orthokonzept.de
+    T Montag – Freitag: 09.00 – 13.00 Uhr | 14.00 – 18.00 Uhr oder nach Vereinbarung
+    BTN ANFAHRT - IHR WEG ZU UNS ../anfahrt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN index.html
+
+===== leistungen/ | Entdecken Sie orthopädische Hilfsmittel, Bewegungsanalysen, Maßanfertigungen, Sicherheitsschuhe und professionelle Beratung für Ihre Gesundheit. 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 LEISTUNGEN
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSER SERVICE IM ÜBERBLICK
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Unsere Leistungen für Sie stammen vornehmlich aus den Bereichen „orthopädische Hilfsmittel” und Bewegungsanalysen . Wir 
+    T Besondere Spezialgebiete der orthoKonzept sind die Fertigung von Flip-Flops und Sandalen nach Maß sowie alles rund um da
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== leistungen/bewegungsanalysen/ | Bewegungsanalyse: Ursachen erkennen & Fehlbelastungen vermeiden | orthoKonzept GmbH 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 BEWEGUNGS­ANALYSEN
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 ZIEL DER BEWEGUNGSANALYSE
+    T Die biomechanische Betrachtungsweise erlaubt dem geschulten Beobachter auftretende Fehlbelastungen der Gelenkstrukturen 
+    BTN ZUR LAUFBANDANALYSE ../../laufbandanalyse/index.html
+    BTN ZUR ELEKTRONISCHEN FUßDRUCKMESSUNG ../../pedographie/index.html
+    IMG content/uploads/2023/03/bewegungsanalyse-e1681736964840.webp zwei Bilder zum Thema Bewegung
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 HINTERGRUNDINFORMATIONEN
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Der Gang des Menschen ist eine bipedale Lokomotion, gekennzeichnet durch ein komplexes Zusammenspiel neuromuskulärer Str
+    T Unser Bewegungsablauf ist sehr komplex und durch die Konstruktionsweise unseres Bewegungsapparates konkreten mechanische
+    IMG ../../wp-content/uploads/2023/03/gangphasen.png Grafik mit Gangphasen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== leistungen/bewegungsanalysen/laufbandanalyse-2/ | Laufbandanalyse: Optimieren Sie Ihre Bewegungsweise & Schuhwahl 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 LAUFBANDANALYSE
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WARUM SOLLTE ICH EINE LAUFBANDANALYSE MACHEN?
+    T Oft reicht die allein statische Betrachtung nicht aus. Bei einer Laufbandanalyse steht die Belastung des Körpers in der 
+    IMG -content/uploads/2023/03/laufbandanalyse-e1681737109698.webp zwei verschiedene Bilder vom L
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-117-768x513.webp Mitarbeiter von orthoKonzept s
+    H h2 WAS UMFASST DIE KINEMATISCHE UNTERSUCHUNG?
+    T – Kadenz (Anzahl der Schritte pro Minute) – Ganggeschwindigkeit (zurückgelegte Wegstrecke in einer bestimmten Zeit) – Sc
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/06/laufband1.jpg laufband1
+    IMG ../../../wp-content/uploads/2023/06/laufband2.jpg laufband2
+    IMG ../../../wp-content/uploads/2023/06/laufband3.jpg laufband3
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 VIDEOS ZUR LAUFBANDANALYSE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    VIDEO {"youtube_url":"https:\/\/www.youtube.com\/watch?v=CDnaj_N65kY","video_type":"youtube","controls":"y
+    H h3 BEISPIEL ANHAND EINEM ALTEN SCHUH
+    VIDEO {"youtube_url":"https:\/\/www.youtube.com\/watch?v=CCNpV80ZLnE","video_type":"youtube","controls":"y
+    H h3 BEISPIEL MIT NEUEM PASSENDEN SCHUH
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR BERATEN SIE GERNE!
+    T Das Erkennen von Risikofaktoren und unterschiedlichster Problematiken für unseren Bewegungsapparat ermöglicht uns, für S
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ../../../wp-content/uploads/2023/03/OrthoKonzept_KA-093.webp Mitarbeiter von orthoKonzept s
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/bewegungsanalysen/laufbandanalyse/ | Laufbandanalyse: Optimieren Sie Ihre Bewegungsweise & Schuhwahl 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 LAUFBANDANALYSE
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WARUM SOLLTE ICH EINE LAUFBANDANALYSE MACHEN?
+    T Oft reicht die allein statische Betrachtung nicht aus. Bei einer Laufbandanalyse steht die Belastung des Körpers in der 
+    IMG -content/uploads/2023/03/laufbandanalyse-e1681737109698.webp zwei verschiedene Bilder vom L
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-117-768x513.webp Mitarbeiter von orthoKonzept s
+    H h2 WAS UMFASST DIE KINEMATISCHE UNTERSUCHUNG?
+    T – Kadenz (Anzahl der Schritte pro Minute) – Ganggeschwindigkeit (zurückgelegte Wegstrecke in einer bestimmten Zeit) – Sc
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/06/laufband1.jpg laufband1
+    IMG ../../../wp-content/uploads/2023/06/laufband2.jpg laufband2
+    IMG ../../../wp-content/uploads/2023/06/laufband3.jpg laufband3
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 VIDEOS ZUR LAUFBANDANALYSE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    VIDEO {"youtube_url":"https:\/\/www.youtube.com\/watch?v=CDnaj_N65kY","video_type":"youtube","controls":"y
+    H h3 BEISPIEL ANHAND EINEM ALTEN SCHUH
+    VIDEO {"youtube_url":"https:\/\/www.youtube.com\/watch?v=CCNpV80ZLnE","video_type":"youtube","controls":"y
+    H h3 BEISPIEL MIT NEUEM PASSENDEN SCHUH
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR BERATEN SIE GERNE!
+    T Das Erkennen von Risikofaktoren und unterschiedlichster Problematiken für unseren Bewegungsapparat ermöglicht uns, für S
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ../../../wp-content/uploads/2023/03/OrthoKonzept_KA-093.webp Mitarbeiter von orthoKonzept s
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/bewegungsanalysen/pedographie/ | Pedographie: Präzise Fußdruckmessung für optimale Therapie 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PEDOGRAPHIE
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WAS IST DIE ELEKTRONISCHE FUßDRUCKMESSUNG?
+    T Im Gegensatz zur Laufbandanalyse werden bei der Pedographie bzw. Pedobarographie die auftretenden Kräfte direkt unter de
+    IMG ../../../wp-content/uploads/2023/09/pedographie-768x605.webp pedographie
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 DRUCKMESSPLATTE
+    T Sie wird zur Barfußmessung verwendet und erlaubt eine neutrale, objektive und gut wiederholbare Beurteilung der Fußfunkt
+    IMG ../../../wp-content/uploads/2023/09/druckmessplatte.png Druckmessplatte
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    VIDEO {"video_type":"hosted","controls":"yes"}
+    H h2 ABLAUF DER PEDOGRAPHIE
+    T Generell stehen bei der Auswertung der Messverfahren acht Regionen des Fußes im Zentrum des Interesses. Dazu gehören die
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR BERATEN SIE GERNE!
+    T Das Erkennen von Risikofaktoren und unterschiedlichster Problematiken für unseren Bewegungsapparat ermöglicht uns, für S
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ../../../wp-content/uploads/2023/03/OrthoKonzept_KA-081.webp Mitarbeiter von orthoKonzept s
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/laufschuhe/ | Finden Sie die idealen Laufschuhe mit individueller Bewegungsanalyse. Erhalten Sie Top-Marken und professionelle Beratung für Ihre Gesundheit. 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 LAUFSCHUHE
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WIR FINDEN DIE OPTIMALEN LAUFSCHUHE FÜR SIE
+    T „Irgendein Auslaufmodell oder ein Angebot vom Discounter tut’s doch auch!” – Ist das der richtige Ansatz, um lange gesun
+    BTN HIER BERATEN LASSEN ../../kontakt/index.html
+    IMG ../wp-content/uploads/2023/03/laufschuhe-e1681737336230.webp zwei verschiedene Bilder zum T
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/05/rennwerk-Logo-300x87.png rennwerk Logo
+    T In Karlsruhe finden Sie beim Rennwerk – unserem Profi-Laufschuhpartner – eine große und vielfältige Auswahl an Top-Marke
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== leistungen/orthopaedie/ | Orthopädie: Maßschuhe, Einlagen & Sportler-Versorgung 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ORTHOPÄDIE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 VOM MAßSCHUH BIS ZUR SPORTLER-VERSORGUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ntent/uploads/2023/06/orthopaedische-Massschuhe-1024x229.jpg orthopädische-Massschuhe
+    H h3 ORTHOPÄDISCHE MAßSCHUHE
+    BTN MEHR ERFAHREN ../../orthopaedischer-massschuh/index.html
+    IMG /../wp-content/uploads/2023/06/Orthopaedische-Einlagen2.webp Orthopaedische-Einlagen2
+    H h3 ORTHOPÄDISCHE EINLAGEN
+    BTN MEHR ERFAHREN ../../orthopaedische-einlagen/index.html
+    IMG /uploads/2023/06/orthopaedische-schuzurichtung-1024x229.webp orthopaedische-schuzurichtung
+    H h3 ORTHOPÄDISCHE SCHUHZURICHTUNG
+    BTN MEHR ERFAHREN ../../orthopaedische-schuhzurichtung/index.html
+    IMG ../wp-content/uploads/2023/06/Bandagen-Orthesen-1024x229.jpg Bandagen-Orthesen
+    H h3 BANDAGEN &amp; ORTHESEN
+    BTN MEHR ERFAHREN ../../bandagen-orthesen/index.html
+    IMG -content/uploads/2023/06/Kompressionsversorgung-1024x229.jpg Kompressionsversorgung
+    H h3 KOMPRESSIONSVERSORGUNG
+    BTN MEHR ERFAHREN ../../kompressionsversorgung/index.html
+    IMG ontent/uploads/2023/07/diabetiker-schutzschuhe-1024x229.webp diabetiker-schutzschuhe
+    H h3 DIABETIKER-SCHUTZSCHUHE
+    BTN MEHR ERFAHREN ../../diabetiker-schutzschuhe/index.html
+    IMG ds/2023/06/Teaser-Fussteilentlastungsschuh-Verbandschuh.webp Teaser-Fußteilentlastungsschuh
+    H h3 FUSSTEILENTLASTUNGS UND -VERBANDSCHUH
+    BTN MEHR ERFAHREN ../../fussteilentlastungs-verbandschuh/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== leistungen/orthopaedie/bandagen-orthesen/ | Bandagen & Orthesen – Individuelle Lösungen für Schmerzfreiheit & Stabilität 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 BANDAGEN &amp; ORTHESEN
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 BANDAGEN &amp; ORTHESEN FÜR IHRE PERSÖNLICHEN BEDÜRFNISSE
+    T Orthopädische und medizinische Bandagen sowie Orthesen dienen zur Therapie und Prophylaxe von Verletzungen und Erkrankun
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ds/2023/03/bandagen-orthesen-persoenliche-beduerfnissse.webp Beine mit Bandagen und Orthese
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HELFEN BEI EINER VIELZAHL VON INDIKATIONEN:
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Ausgeprägte Zehendeformitäten wie Hallux valgus, Hammer- u. Krallenzehen
+    T Überlastungen bzw. Entzündungen der Sehnen, Sehnenansätze oder der Knochenhaut (Enthesio-, Tendopathien, etc.): Shin spl
+    T mediale / laterale Gonarthrose, Knieachsenfehlstellung (O- / X-Bein), Zustand nach Totalendoprothesen
+    T Peronäuslähmung / Beinlängendifferenzen
+    T Fußwurzel- / Sprunggelenks- und Rückfußstörungen / Traumata, Unfälle: Arthrodesen, Arthrosen, Frakturen oder Bandrupture
+    T Achillodynie, Haglundexostose
+    T Instabilitäten, etc.
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIRKUNGSWEISE UND -FAKTOREN VON BANDAGEN &amp; ORTHESEN
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/03/kompression-modified.png Kompressionsstrumpf
+    H h3 Kompression
+    T Typisches Merkmal von elastischen Bandagen ist ihre komprimierende Wirkung. Kompression bedeutet: Ausübung von Druck auf
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/03/entlastung-modified.png Frau beim Sport trägt Bandage 
+    H h3 ENTLASTUNG
+    T Die mechanische Entlastung überbeanspruchter oder geschädigter Strukturen des Bewegungsapparates ist ein Grundprinzip be
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/gelenksicherungsbandage.png gelenksicherungsbandage
+    H h3 FÜHRUNG / STABILISIERUNG
+    T Mechanische Führung und Stabilisierung von Gelenken durch Gelenk übergreifende Formteile; beispielsweise bewirkt die Füh
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/stabilisierung-modified.png Bandage zur Stabilisierung des
+    H h3 KORREKTUR
+    T Zurückführung von Fehlstellungen in Richtung Normalform und Sichern einer korrigierten Haltung; beispielsweise kann die 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/03/fixation-modified.png Fixation eines Beines
+    H h3 FIXATION / IMMOBILISATION
+    T Immobilisation von Gelenken durch gelenkübergreifende Formteile; beispielsweise kann das Kniegelenk durch eine Immobilis
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/03/bandage-modified.png Fuß mit Bandage
+    H h3 RHEOLOGISCHE WIRKUNG
+    T Verbesserung der Durchblutung von Problemzonen durch mechanische Stimulation und Wärmewirkung; Voraussetzung dafür ist d
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/09/bandage-orthokonzept.png bandage-orthokonzept
+    H h3 PROPRIOZEPTIVE WIRKUNG
+    T Unsere Gelenke halten der Beanspruchung nur dann über längere Zeit stand, wenn die Bewegungen aktiv gesteuert und kontro
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../wp-content/uploads/2023/03/schmerzempfindung-modified.png Rücken mit Bandage / Orthese
+    H h3 WIRKUNG AUF DIE SCHMERZEMPFINDUNG
+    T Neben der unmittelbaren Bekämpfung des Schmerzes wird damit vermieden, dass der Schmerzzustand zur Schonung und zur Bewe
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/diabetiker-schutzschuhe/ | Diabetiker-Schutzschuhe: Sicherheit & Komfort für Ihre Füße 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 DIABETIKER- SCHUTZSCHUHE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 DIABETIKER-SCHUTZSCHUHE
+    T Weltweit sind 415 Millionen Menschen von der Krankheit Diabetes betroffen. Die Internationale Diabetikervereinigung sagt
+    IMG wp-content/uploads/2023/05/Diabetiker-Schutzschuh-circle.png Diabetiker-Schutzschuh
+    H h3 MATERIALEIGENSCHAFTEN:
+    T Materialien wurden auf Unbedenklichkeit, Karzinogenität und Toxikologie untersucht
+    T Medizinprodukt der Klasse I mit CE-Kennzeichnung
+    T Innenfutter ist atmungsaktiv, waschbar, hautfreundlich und durch die Ausstattung mit Silberionen antibakteriell
+    T durch eingearbeitetes Laschenpolster wird der Ristbereich druckentlastet
+    T gestürztes Oberleder mit Abschlusspolster verhindert Druckstellen im Fersen- und Knöchelbereich
+    T lange Hinterkappe sorgt für einen guten Fersensitz
+    T rutschfeste PU-oder EVA-Laufsohle mit starker Rolle und Spitzenhub sowie versteifte Brandsohle
+    T atmungsaktives und schadstoffgeprüftes Obermaterial
+    T keine harten Vorderkappen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Diabetiker-Schutzschuhe sind rezeptierfähig und im Hilfsmittelkatalog der Kranken­kassen enthalten. Bei entsprechender N
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HELFEN BEI EINER VIELZAHL VON INDIKATIONEN:
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Diabetisches Fußsyndrom
+    T Neuropathie oder Polyneuropathie
+    T Hochrisikofüße nach Abheilung von Ulcerationen
+    T nach Teilamputationen
+    T Hallux rigidus
+    T Rheumatische Fußveränderung
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/fussteilentlastungs-verbandschuh/ | Fußteilentlastungs- und Verbandschuhe – Unterstützung für Wundheilung 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 FUßTEILENT­LASTUNGS- UND VERBANDSCHUH
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 FUßTEILENTLASTUNGS-SCHUHE
+    T Fußteilentlastungsschuhe konzentrieren die Auftrittsbelastung auf den belastbaren Teil des Fußes und unterstützen damit 
+    IMG ../../wp-content/uploads/2023/05/Remedy-Pro-white-circle.png Fußteilentlastungsschuh
+    H h3 MATERIALEIGENSCHAFTEN:
+    T hautfreundliche Materialien mit Schadstoffprüfung
+    T meist latexfrei
+    T Medizinprodukt der Klasse I
+    T atmungsaktives weiches Material
+    T leicht waschbar
+    T austauschbare Innensohlen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/05/Squared-Toe-circle.png Verbandsschuh
+    H h3 MATERIALEIGENSCHAFTEN:
+    T hautfreundliche Materialien mit Schadstoffprüfung
+    T meist latexfrei
+    T Medizinprodukt der Klasse I
+    T atmungsaktives weiches Material
+    T leicht waschbar
+    T austauschbare Innensohlen
+    H h2 VERBANDSCHUHE
+    T Verbandschuhe dienen der frühzeitigen Gehfähigkeit bei notwendigen und umfangreichen Verbänden im Fußbereich und gegeben
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HELFEN BEI EINER VIELZAHL VON INDIKATIONEN:
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T postoperativ zur Stabilisierung und Entlastung des betroffenen Fußteils (bei Hallux valgus-Korrekturen, Hammerzehen, Mor
+    T nach Fußverletzungen / Prellungen / Stauchungen
+    T rheumatische Erkrankungen
+    T allgemeine Wunden im Fußbereich auch aufgrund von Diabetes mellitus (Ulcus, Amputationen, etc.)
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Verbandschuhe und Fußteilentlastungsschuhe sind rezeptierfähig und im Hilfsmittelkatalog der Krankenkassen enthalten. So
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/kompressionsversorgung/ | Kompressionstherapie: Funktion & Vorteile von Kompressionsstrümpfen 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 KOMPRESSIONS­VERSORGUNG
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 FUNKTIONSWEISE DER KOMPRESSIONSTHERAPIE
+    T Kompressionsstrümpfe erzeugen von außen Druck auf das Gewebe des umschlossenen Beines, um dessen geschädigtes Venen- ode
+    IMG p-content/uploads/2023/03/kompressionsstruempfe-768x617.webp Frau misst Bein ab für Kompres
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-066-768x513.webp Mitarbeiter von orthoKonzept f
+    H h2 WOZU EINE KOMPRESSIONSTHERAPIE?
+    T Anhand der Kompressionstherapie behandelt man unter anderem Indikationen aus der Phlebologie und der Lymphologie. Beispi
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 NEUERDINGS AUCH EINSATZ IM SPORT
+    T Die Muskulatur in der Arterienwand reagiert auf Druckunterschiede. Durch Kompression entspannt sich die Muskulatur in de
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG /uploads/2023/03/kompressionsstruempfe_2-e1681468375700.webp Kompressionsstrümpfe The Run F
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-077-768x513.webp Person zieht Kompressionsstrum
+    H h2 FERTIGUNG DER KOMPRESSIONSSTRÜMPFE
+    T Ein Kompressionsstrumpf besteht aus Zweizugmaterial (Längs-und Querdehnung). Die Fadenqualität ist aktuell meist Vollsyn
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 ERHÄLTLICH IN VERSCHIEDENEN AUSFÜHRUNGEN
+    T Kompressionsstrümpfe sind in Waden-, Halbschenkel- und Oberschenkel-Länge sowie als Strumpfhose für beide Geschlechter e
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    GAL 2
+  -- sec cols=0 bg=0 elementor-element background-parallax-left e-flex e-con-boxe
+    IMG /uploads/2023/03/kompressionsstruempfe_3-e1681468610858.webp Person zieht Kompressionsstrüm
+    H h2 PRAKTISCHE HANDHABUNG
+    T Das Anziehen von Kompressionsstrümpfen ist schwieriger als das von normalen Strümpfen. Mit Gummihandschuhen an den Hände
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+
+===== leistungen/orthopaedie/orthopaedische-einlagen/ | Orthopädische Einlagen: Individuelle Lösungen für Ihre Füße 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ORTHOPÄDISCHE EINLAGEN
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 EINLAGE STATT SCHIEFLAGE
+    T Einlagen sind individuell angefertigte orthopädische Hilfsmittel zur Korrektur, Stützung oder Bettung von Fußdeformitäte
+    IMG /uploads/2023/03/orthopaedische-einlagen-e1681467522228.webp zwei verschiedene Bilder zum T
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HELFEN BEI EINER VIELZAHL VON INDIKATIONEN:
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Ausgeprägte Zehendeformitäten wie Hallux valgus &amp; rigidus, Hammer- u. Krallenzehen
+    T Metatarsalgie, Morton’sche Neuralgie, Ermüdungsbrüche, Marschfrakturen, Hühneraugen, Dornwarzen
+    T Fußfehlstellungen: Knick-Senk-Spreiz-Hohl-Platt-Klumpfuß
+    T Plantarfasciitis, Fersensporn, Apophysitis calcanei
+    T Überlastungen bzw. Entzündungen der Sehnen, Sehnenansätze oder der Knochenhaut: Shin splints, Runners knee, Patellarsehn
+    T Mediale / laterale Gonarthrose, Knieachsenfehlstellung (O- / X-Bein), Coxarthrosen, Zustand nach Totalendprothesen
+    T Spitzfußstellung / Peronäuslähmung / Beinlängendifferenzen
+    T Fußwurzel- / Sprunggelenks- und Rückfußstörungen / Traumata: Arthrodesen, Arthrosen, Frakturen oder Bandrupturen
+    T Achillodynie, Haglundexostose
+    T Diabetes mellitus, Diabetisches Fußsyndrom, Polyneuropathie
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 BEI ORTHOKONZEPT SIND IHRE FÜßE IN GUTEN HÄNDEN
+    T Der Erfolg bei der Behandlung mit Einlagen hängt direkt auch von den getragenen Schuhen ab. Der Schuh muss die Einlage i
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ../../../wp-content/uploads/2023/03/OrthoKonzept_KA-151.webp Mitarbeiterin von orthoKonzept
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/orthopaedische-schuhzurichtung/ | Orthopädische Schuhzurichtung: Komfort & Funktion für Ihre Schuhe 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ORTHOPÄDISCHE SCHUH­ZURICHTUNG / SCHUHUMBAU­TEN
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UMARBEITUNG VON KONFEKTIONSSCHUHEN
+    T Die Umarbeitungen von Konfektionsschuhen werden als Schuhzurichtungen bezeichnet. Sie dienen dazu, einen vorhandenen im 
+    ? icon 
+    H h2 Entsprechende Indikationen bzw. Diagnosen wären beispielsweise:
+    T mediale / laterale Gonarthrose, Knieachsenfehlstellung (O- / X-Bein), Coxarthrose. Zustand nach Totalendoprothesen
+    T ausgeprägte Zehendeformitäten: Hallux valgus, Hammer-/Krallenzehen, etc.
+    T Spitzfußstellung / Beinlängendifferenzen
+    T Fußwurzel- / Sprunggelenks- und Rückfußstörungen / Traumata: Arthrodesen, Arthrosen, Frakturen
+    T Metatarsalgie, Ermüdungsbrüche, Marschfrakturen
+    T Achillodynie, Haglundexostose
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 IM ALLGEMEINEN UMFASSEN DIE UMBAUTEN FOLGENDE ARBEITSGEBIETE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../../wp-content/uploads/2023/03/shoes1.png grünes Icon Schuhe
+    H h3 Arbeiten am Absatz
+    T z. B. Pufferabsatz, Torqueelabsatz
+    IMG ../../../wp-content/uploads/2023/03/walking.png grünes Icon Schuhe beim Laufen
+    H h3 Arbeiten zur Schuherhöhung
+    T z. B. Absatz- oder Sohlenerhöhung
+    IMG ../../../wp-content/uploads/2023/03/footprint.png grünes Icon Fußabdrücke
+    H h3 Arbeiten an der Sohle
+    T z. B. Schmetterlings- oder Abrollsohlen
+    IMG ../../../wp-content/uploads/2023/03/foot.png grünes Icon nackter Fuß
+    H h3 Arbeiten zur Entlastung, Stützung, Polsterung und Schaftveränderung
+    T z. B. Quergewölbestützen, Haglundfersenentlastung
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WIR BERATEN SIE GERNE
+    T Bei der Umarbeitung von Konfektionsschuhen kommt es vor allen Dingen darauf an, „den Schuh Ihrem Fuß anzupassen”. Die St
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG s/2023/03/orthopaedische-schuhzurichtung-e1681467726926.webp zwei verschiedene Bilder zur o
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    GAL 7
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/orthopaedische-sporteinlagen/ | Orthopädische Sporteinlagen: Optimale Unterstützung für Sportler 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ORTHOPÄDISCHE SPORTEINLAGEN
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 UNSERE SPORTEINLAGEN MACHEN SIE NOCH SCHNELLER
+    T Unsere individuellen Sporteinlagen dienen der Abrollbewegung angepassten Unterstützung des Fußes bei sportlicher Belastu
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG wp-content/uploads/2023/03/sporteinlagen-e1681737440779.webp orthopädische Sporteinlagen we
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WIR HELFEN BEI EINER VIELZAHL VON INDIKATIONEN:
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Ausgeprägte Zehendeformitäten wie Hallux valgus &amp; rigidus, Hammer- u. Krallenzehen
+    T Metatarsalgie, Morton’sche Neuralgie, Ermüdungsbrüche, Marschfrakturen, Hühneraugen, Dornwarzen
+    T Fußfehlstellungen: Knick-Senk-Spreiz-Hohl-Platt-Klumpfuß
+    T Plantarfasciitis, Fersensporn, Apophysitis calcanei
+    T Überlastungen bzw. Entzündungen der Sehnen, Sehnenansätze oder der Knochenhaut: Shin splints, Runners knee, Patellarsehn
+    T Mediale / laterale Gonarthrose, Knieachsenfehlstellung (O- / X-Bein), Coxarthrosen, Zustand nach Totalendprothesen
+    T Spitzfußstellung / Peronäuslähmung / Beinlängendifferenzen
+    T Fußwurzel- / Sprunggelenks- und Rückfußstörungen / Traumata: Arthrodesen, Arthrosen, Frakturen oder Bandrupturen
+    T Achillodynie, Haglundexostose
+    T Diabetes mellitus, Diabetisches Fußsyndrom, Polyneuropathie
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/orthopaedie/orthopaedischer-massschuh/ | Orthopädische Maßschuhe: Perfekte Passform & Funktion 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ORTHOPÄDISCHE MAßSCHUHE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WAS IST EIN ORTHOPÄDISCHER MAßSCHUH?
+    T Bei einem orthopädischen Maßschuh handelt es sich um einen in handwerklicher Einzelanfertigung hergestellten, individuel
+    ? icon 
+    H h2 Entsprechende Indikationen bzw. Diagnosen wären beispielsweise:
+    T Schwerwiegende Fußdeformitäten: Klumpfuß, Plattfuß mit axialer Abweichung, etc.
+    T ausgeprägte Zehendeformitäten: Hallux valgus, Hammer-/Krallenzehen, etc.
+    T Spitzfußstellung / Beinlängendifferenzen
+    T Fußwurzel- / Sprunggelenks- und Rückfußstörungen / Traumata: Arthrodesen, Arthrosen, Frakturen
+    T Diabetisches Fußsyndrom / Diabetes mellitus
+    T Lähmungen (z.B. N. Peronäus)
+    T Amputationen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-033-768x513.webp Mitarbeiter von orthoKonzept s
+    H h2 INDIVIDUELL ZUGESCHNITTEN AUF IHRE FÜßE UND BESCHWERDEN
+    T Unsere Kunden haben bei der Auswahl der Materialien immer ein Mitspracherecht, wenn es um die optische Erscheinung geht.
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 WELCHE KOSTEN ÜBERNIMMT DIE KRANKENKASSE?
+    T Der Anspruch des Versicherten erstreckt sich nicht nur auf die Erstausstattung, sondern auch auf deren Änderung, Instand
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG /uploads/2023/03/orthopaedische-massschuhe-orthokonzept.webp zwei verschiedene Bilder mit M
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 SCHRITT FÜR SCHRITT ZUM PERFEKTEN MAßSCHUH
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG /../../wp-content/uploads/2023/03/Anamnese-und-Beratung.webp Person analysiert blaue Schuhe
+    H h3 ERMITTELN DER EXAKTEN MAßE
+    T Um einen orthopädischen Maßschuh herzustellen, werden die exakten Längen-, Breiten-, Höhen- und Umfangmaße des Fußes ben
+    IMG /../../wp-content/uploads/2023/03/Ausfuehrliche-Analyse.webp Orthopäde analysiert den Fuß e
+    H h3 HERSTELLUNG PASSGENAUER LEISTEN
+    T Die Maße und Abdrücke werden zur Herstellung der Leisten verwendet. Er wird aus Holz oder einer Kunststoff-Holz-Kombinat
+    IMG /../../wp-content/uploads/2023/03/Anprobe-und-Anpassung.webp Person steht mit nacktem Fuß a
+    H h3 FERTIGSTELLUNG UND ANPROBE
+    T Der nächste Schritt ist die Bodenbearbeitung; die innen liegende Sohle, die so genannte Brandsohle, wird befestigt und d
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 BESONDERE HERSTELLUNG FÜR DIABETESPATIENTEN
+    T Speziell für Diabetespatienten werden die orthopädischen Schuhe nach besonderen Vorgaben hergestellt. Sie müssen besonde
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+    IMG ../../../wp-content/uploads/2023/03/OrthoKonzept_KA-037.webp verschiedene orthopädische Maß
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    IMG oads/2023/03/orthopaedische-massschuhe_2-e1681310471182.webp zwei verschiedene Bilder mit M
+    H h2 MIT BEDACHT GEWÄHLTE MATERIALIEN FÜR INDIVIDUELLE WÜNSCHE
+    T Bei der Herstellung sind die altbewährten Materialien wie Leder und Gummi von wesentlicher Bedeutung. Aber auch neuartig
+    BTN HIER BERATEN LASSEN ../../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../../kontakt/index.html
+
+===== leistungen/sicherheitsschuhe/ | Sicherheitsschuhe & Orthopädische Einlagen | Maßgeschneiderte Lösungen für den Arbeitsalltag 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 SICHERHEITSSCHUHE
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 ALLES FÜR IHRE SICHERHEIT!
+    T Im heutigen Berufsalltag muss jeder Mensch sehr viel leisten. Speziell für unsere Füsse bedeutet dies tagtäglich Schwers
+    IMG ../wp-content/uploads/2023/06/paralax-sicherheitsschuhe.webp paralax-sicherheitsschuhe
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 BESONDERHEITEN / HINTERGRUNDINFORMATIONEN
+    T Die Berufsgenossenschaften und Unfallversicherungen haben in Abstimmung mit dem Bundesministerium für Arbeit und Soziale
+    BTN MEHR ZUR KOSTENERSTATTUNG ../../service/kostenerstattung/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WEITERE INFOS
+    T Orthopädische Einlagen in Sicherheitsschuhe Nahezu alle Sicherheitsschuhhersteller haben in ihrem Sortiment eine Auswahl
+    H h2 .
+    T Sicherheitsschuh nach Maß Bei manchen Füßen sind die Deformitäten und Fehlstellungen so gravierend, dass man Sie trotz o
+    BTN HIER BERATEN LASSEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/schoeffler-und-woerner.png Schöffler und Wörner Logo
+    T Unser Kooperationspartner im Bereich Sicherheitsschuhe ist die Firma Schöffler + Wörner in Hagsfeld.
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== leistungen/theynis/ | THeynis - die Lösung für den Sommer 
+  -- sec cols=0 bg=4 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 Theynis – gesund, bequem und individuell
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 Orthopädie trifft Design
+    T Gesundheit kann auch modisch sein. Dein Schuhdesign so einzigartig wie deine Füße. Bei den THeynis bestimmst du Form, Fa
+    BTN HIER BERATEN LASSEN ../../kontakt/index.html
+    IMG ../../wp-content/uploads/2026/03/Theynis-Bildcollage.png 
+  -- sec cols=0 bg=0 elementor-element background-parallax-right e-flex e-con-box
+    H h2 Gescannt. Gestaltet. Gesund. Deine Füße im Fokus.
+    T Jeder THeynis beginnt mit einem präzisen 3D-Scan deiner Füße. Auf dieser Grundlage wird der Schuh millimetergenau an dei
+    BTN HIER BERATEN LASSEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 WARUM THEYNIS?
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Maßanfertigung per 3D-Scan
+    T Entwicklung &amp; Fertigung aus einer Hand
+    T individuelles Design statt Standardlösung
+    T spürbare Entlastung für den gesamten Bewegungsapparat
+    T höchste orthopädische Präzision computerunterstützt
+    T jeder Schuh ein Einzelstück
+    T für Alltag, Beruf und Freizeit
+    T hochwertige atmungsaktive Materialien
+    T vielfältige Farb- und Materialauswahl
+  -- sec cols=0 bg=0 elementor-element e-con-full e-flex parallax_section_no qode
+    H h2 BRAUCHEN SIE HILFE?
+    T Unsere Mitarbeiter hören sich gern Ihr Anliegen an und beraten Sie mit Ihrem Expertenwissen. Gerne können wir auch einen
+    BTN TERMIN VEREINBAREN ../../kontakt/index.html
+    IMG ../../wp-content/uploads/2026/03/THeynis-Flip.png 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 DIE VERSCHIEDENEN VARIANTEN IM ÜBERBLICK
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2026/03/THeynis-Flip-1.png 
+    H h3 Flip
+    T Die THeynis Flip-Modelle verbinden sommerliche Leichtigkeit mit echter orthopädischer Funktion. Dank individuell modelli
+    IMG ../../wp-content/uploads/2026/03/THeynis-Steg.png 
+    H h3 Steg
+    T Das THeynis Steg-Modell ist die elegante Interpretation des klassischen Flipflops. Schlank im Design, präzise in der Fun
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2026/03/THeynis-Single.png 
+    H h3 Single
+    T Das THeynis Single-Modell steht für klare Formgebung und hohen Tragekomfort. Der einzelne Riemen bietet eine ausgewogene
+    IMG ../../wp-content/uploads/2026/03/THeynis-Double.png 
+    H h3 Double
+    T Das THeynis Double-Modell kombiniert ausgewogenes Design mit zusätzlicher Führung. Zwei Riemen ermöglichen eine präziser
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2026/03/THeynis-Triple.png 
+    H h3 Triple
+    T Das THeynis Triple-Modell steht für maximale Anpassungsfähigkeit bei klarer Formsprache. Drei Riemen erlauben eine beson
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 Hier können Sie sich einige Beispiele anschauen:
+    GAL 13
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== moderate-preisanpassung-zum-jahresbeginn-2026/ | Moderate Presianpassung zum Jahresbeginn 2026 | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Sehr geehrte Kundinnen und Kunden, die orthoKonzept GmbH steht seit jeher für qualitativ hochwertige Produkte im Bereich
+
+===== nutzungsbedingungen/ | Erfahren Sie alles über die Nutzungsbedingungen, Datenschutz, Haftung, Links und Urheberrechte der orthoKonzept GmbH. Transparent und rechtssicher. 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h1 Nutzungsbedingungen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Bitte beachten Sie die folgenden Bestimmungen für die Nutzung unserer Angebote und unsere Datenschutzerklärung. Mit der 
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== pfinztallauf-2024-2/ | Frohe Weihnachten 2024 – Besinnliche Feiertage vom orthoKonzept-Team | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Es wird kälter, die Lichter leuchten und überall sieht man Anzeichen von Weihnachten!Bald ist wieder Heilig Abend und da
+    IMG ../wp-content/uploads/2024/12/Weihnachten-778x1024.jpg Weihnachten 2024
+
+===== pfinztallauf-2024/ | Pfinztallauf 2024: Toller Lauf-Event mit Begeisterung und Siegern | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Der Pfinztallauf 2024 konnte dieses Mal bei hervorragendem Wetter ausgetragen werden. Viele Läuferinnen und Läufer von d
+    IMG /wp-content/uploads/2024/10/IMG-20241028-WA0001-768x1024.jpg Pfinztallauf 2024 Ziel
+
+===== pfinztallauf-2025/ | Pfinztallauf 2025: Viele Wettbewerbe und zwei strahlende Siegerinnen | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Der Pfinztallauf 2025 fand dieses Mal bei starkem Wind statt. Zum Glück regnete es so gut wie gar nicht und man konnte d
+    IMG 2/Siegerehrung-Pfinztallauf-2025-5km-Lauf-Damen-1024x962.png Siegerehrung Pfinztallauf 2025
+    IMG ../wp-content/uploads/2025/12/2-Siegerinnen-in-Aktion.png 2 Siegerinnen in Aktion
+
+===== produkte/ | Orthopädische Einlagen, Maßschuhe & Kompressionsprodukte | OrthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PRODUKTE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 PRODUKTE IM ÜBERBLICK
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../wp-content/uploads/2023/03/einlagen.png Fuß steht auf einer orthopädis
+    H h3 RUND UM DEN FUß
+    T Einlagen sind individuell angefertigte orthopädische Hilfsmittel zur Stützung von Fußdeformitäten.
+    BTN PRODUKTE ANSEHEN rund-um-den-fuss/index.html
+    IMG ../wp-content/uploads/2023/03/sohlen.png Herstellung orthopädischer Maß
+    H h3 RUND UM DEN SCHUH
+    T Schuhe benötigen entsprechende Pflege.
+    BTN PRODUKTE ANSEHEN ../rund-um-den-schuh/index.html
+    IMG ../wp-content/uploads/2023/03/struempfe.png Frau trägt grüne Kompressionss
+    H h3 RUND UM DIE KOMPRESSION
+    T Durch gezielten Einsatz von Kompression wird sowohl die Leistung als auch die Regeneration verbessert.
+    BTN PRODUKTE ANSEHEN rund-um-die-kompression/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== produkte/rund-um-den-fuss/ | Allpresan & Enzborn Fußpflege – Cremes & Lösungen für Trockene Haut, Hornhaut & Schweißfüße 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PRODUKTE RUND UM DEN FUß
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 Allpresan FußCREME
+    H h2 DIE KLASSIK-LINIE FÜR ALLE FUßPROBLEME
+    T – Fuß Schaum-Cremes mit der patentierten Allpresan-Wirk-Formel zur Pflege und zum Schutz der Haut – Mit verschieden hohe
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 Allpresan - TROCKENE HAUT
+    T – glättet die Haut und macht sie wieder geschmeidig – Mindert Druckstellen und beugt ihrer Entstehung vor – Die natürlic
+    T Wichtige Inhaltsstoffe: Urea, Aloe Vera
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG tent/uploads/2023/03/original-schaum-creme-trockene-haut.png Allpresan Fußcreme Original Sc
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG uploads/2023/03/original-schaum-creme-sehr-trockene-haut.png Allpresan Fußcreme Original Sc
+    H h3 Allpresan - SEHR TROCKENE HAUT
+    T – glättet die Haut und macht sie wieder geschmeidig – Mindert Druckstellen und beugt ihrer Entstehung vor – Die natürlic
+    T Wichtige Inhaltsstoffe: Urea
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 Allpresan - Hornhaut und SCHRUNDEN
+    T – Reduziert Verhornungen und Schrunden auf natürliche Weise – Schützt vor Neubildung von Hornhaut und regeneriert die Ha
+    T Wichtige Inhaltsstoffe: Urea, Aloe Vera, Nachtkerzenöl: Oenothera Biennis Oil
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ads/2023/03/original-schaum-creme-hornhaut-und-schrunden.png Allpresan Fußcreme Original Sc
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG p-content/uploads/2023/09/Allpresan_5_Schaum_Creme_klein.jpg Allpresan 5 Schaumcreme
+    H h3 Allpresan - SCHWITZENDE FÜßE - SCHAUMcreme
+    T Feuchtwarmes Klima in geschlossenen Schuhen fördert nicht nur das Wachstum von Mikroorganismen auf der Haut, die unangen
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 Allpresan - SCHWITZENDE FÜßE - FRISCHE-Spray
+    T Unangenehmer Schweißgeruch ist die Folge der Zersetzung des Schweißes durch Bakterien auf der Haut. Das Fuß spezial Nr. 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ../wp-content/uploads/2023/09/Allpresan_5_Schwitzende_Fe.jpg Allpresan Schwitzende Füße Fri
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ontent/uploads/2023/03/schuh-spray-angenehmes-schuhklima.png Allpresan Fuß Spezial Schuhspr
+    H h3 Allpresan - Angenehmes Schuhklima
+    T – Sorgt für frischen Duft in Schuhen und Stiefeln – Schützt vor unangenehmen Gerüchen – Begünstigt eine gesunde Hygiene
+    T Wichtige Inhaltsstoffe: Teebaumöl: Melaleuca Alternifolia Oil
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 ENZBORN® Teufelssalbe
+    H h2 NATÜRLICHE KRAFT DER TEUFELSKRALLE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/teufelssalbe-heiss.png Enzborn Teufelssalbe heiß gelb
+    H h3 ENZBORN® Teufelssalbe Heiß
+    T ENZBORN® Teufelssalbe Heiß ist ein intensiv wärmendes Pflegegel mit der natürlichen Kraft der Teufelskralle und der Bren
+    IMG ../../wp-content/uploads/2023/03/teufelssalbe-eis.png Enzborn Teufelssalbe Eis blaue
+    H h3 ENZBORN® Teufelssalbe Eis
+    T ENZBORN® Teufelssalbe Eis ist ein intensiv kühlendes Pflegegel mit der natürlichen Kraft der Teufelskralle. Die intensiv
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 AIRCAST® SOFTOES™
+    H h2 ZEHEN- UND VORFUßSCHUTZ AIRCAST ® SOFTOES™
+    T Eine passgenaue Lösung bei Bedarf im Zehenbereich Bei Problemen im Zehen- und Vorfußbereich sind ergonomische Gelpolster
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/zehenspreitzer.png zehenspreitzer
+    H h3 Zehenspreizer
+    T Zur Zehentrennung und zum sicheren Schutz gegen Hautirritationen, Hühneraugen und Wundreiben. Für Diabetiker geeignet.
+    T Verpackungsinhalt: 2 Stück inkl. Pflegetalkum
+    IMG ../../wp-content/uploads/2023/09/zehenseperator.png zehenseperator
+    H h3 Zehenseparator
+    T Zur Zehentrennung und zum sicheren Schutz gegen Hautirritationen, Hühneraugen und Wundreiben. Prävention beim diabetisch
+    T Verpackungsinhalt: 2 Stück inkl. Pflegetalkum
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/ballenschutz.png ballenschutz
+    H h3 Ballenschale
+    T Zur Schmerzreduktion bei Ballenproblemen. Prävention beim diabetischen Fuß.
+    T Verpackungsinhalt: 1 Stück inkl. Pflegetalkum
+    IMG ../../wp-content/uploads/2023/09/zehenring.png zehenring
+    H h3 Zehenring
+    T Zur Druckentlastung an den Zehen und Prävention beim diabetischen Fuß.
+    T Verpackungsinhalt: 2 Stück inkl. Pflegetalkum
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/vorfusspolster.png vorfusspolster
+    H h3 Vorfußpolster
+    T Zur Druckentlastung im Vorfußbereich und zur Unterstützung des Fußgewölbes. Prävention beim diabetischen Fuß.
+    T Verpackungsinhalt: 2 Stück inkl. Pflegetalkum
+    IMG ../../wp-content/uploads/2023/09/zehenpolster.png zehenpolster
+    H h3 Zehenpolster
+    T Zur Schmerzreduktion im Zehenbereich. Wirkt entlastend bei Fehlstellungen. Prävention beim diabetischen Fuß.
+    T Verpackungsinhalt: 1 Stück inkl. Pflegetalkum
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/vorfusskissen.png vorfusskissen
+    H h3 Vorfußeinlage
+    T Zur Druckentlastung im Vorfußbereich. Wird direkt in den Schuh eingelegt. Prävention beim diabetischen Fuß.
+    T Verpackungsinhalt: 1 Paar inkl. Pflegetalkum
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== produkte/rund-um-den-schuh/ | Imprägnierung, Schutz & Frische für Schuhe und Textilien 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PRODUKTE RUND UM DEN SCHUH
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 Bufalo Aqua Stop
+    T – Bufalo Aqua Stop ist ein Vollimprägnierer für alle Glatt- und Rauleder, Textilien und Tex-Materialien – Das Leder blei
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ../../wp-content/uploads/2023/03/bufalo-aqua-stop.png Bufalo Aqua Stop Produkt
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/bama-trainer-fresh.png Bama Trainer Fresh Produkt
+    H h2 BAMA - Trainer Fresh
+    T Der Frische-Kick für Ihre Sport-Schuhe: Bama Trainer Fresh neutralisiert mit seiner antibakteriellen Formel unangenehme 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 Bufalo Shoe Stretch Spray
+    T Der Lederdehner zum Sprühen in alle Leder-Schuhe (ausgenommen Lackleder) bei Druckstellen. – Dehnt das Leder nachhaltig 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ./../wp-content/uploads/2023/09/Bufalo_ShoeStretch_klein.jpg Bufalo Shoe Stretch Spray
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ploads/2023/03/gewachste-schnuersenkel-von-ringelspitz-1.jpg Gewachste Schnürsenkel von Rin
+    IMG ploads/2023/03/gewachste-schnuersenkel-von-ringelspitz-2.jpg Gewachste Schnürsenkel von Rin
+    IMG ploads/2023/03/gewachste-schnuersenkel-von-ringelspitz-3.jpg Gewachste Schnürsenkel von Rin
+    H h2 Gewachste Schnürsenkel von Ringelspitz - Ringelspitz Ringpoint
+    T Betrachtet man einen guten Schuh, so fallen einem die Form, die Farbe und das Leder sofort auf. Auf die Schnürsenkel wir
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== produkte/rund-um-die-kompression/ | Kompressionsprodukte von Ofa & CEP – Strümpfe, Pflege & Zubehör für Komfort und Gesundheit 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PRODUKTE RUND UM DIE KOMPRESSION
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 CEP - RUN SOCKS
+    T CEP hat mit seinen Strümpfen das Laufen revolutioniert. Die Run Socks sind mit einer Mittelfußkompression ausgestattet, 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ../../wp-content/uploads/2023/09/CEP-Strumpf-bunt-klein.jpg CEP Strumpf bunt klein
+    IMG /../wp-content/uploads/2023/09/CEP-Strumpf-schwarz-klein.jpg CEP Strumpf schwarz klein
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/aloe-vera-model.png Frau steht Model für Aloe Vera
+    IMG ../../wp-content/uploads/2023/03/aloe-vera-mit-orchidee.png Aloe Vera mit Orchidee
+    IMG ../../wp-content/uploads/2023/03/aloe-vera-gestrick.png Aloe Vera Gestrick
+    H h2 Aloe Vera Konzept - Kompressionsstrümpfe mit integrierter Hautpflege
+    T Die sanfte Kraft der Natur gegen trockene Haut: Wer Probleme mit den Venen hat, leidet häufig auch unter trockener Haut.
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 OFA 365 - Ideal für Business, Reise und Freizeit.
+    T Der aufrechte Gang des Menschen steht am Anfang aller Venenprobleme. Während das mit Sauerstoff angereicherte Blut dank 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ../wp-content/uploads/2023/08/Ofa-365-Verpackung-300x212.jpg Ofa 365 Verpackung
+    IMG ../../wp-content/uploads/2023/08/OFA-365-Marine-221x300.jpg OFA 365 Marine
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/03/ofa-clean.png Ofa Clean Produktansicht
+    H h2 Ofa Clean
+    T Ofa Clean ist für die schonende Wäsche Ihrer Kompressions- und Stützstrümpfe entwickelt worden. Wir empfehlen, diese täg
+    T So reinigt Ofa Clean besonders sanft aber dennoch wirksam und ist für die tägliche, schonende Wäsche Ihrer Kompressions-
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element elementor-hidden-desktop elementor-hidden-
+    IMG ../../wp-content/uploads/2023/03/ofa-clean.png Ofa Clean Produktansicht
+    H h2 Ofa Clean
+    T Ofa Clean ist für die schonende Wäsche Ihrer Kompressions- und Stützstrümpfe entwickelt worden. Wir empfehlen, diese täg
+    BTN PRODUKT ANFRAGEN https://orthokonzept.suparo.de/kontakt/
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 Ofa Grip - So haben Sie alles fest im Griff
+    T Ofa Grip Spezialhandschuhe erleichtern das Anziehen medizinischer Kompressionsstrümpfe erheblich. Sie verfügen über eine
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+    IMG ../../wp-content/uploads/2023/03/ofa-grip-verpackung.png Ofa Grip Produktansicht
+    IMG ../../wp-content/uploads/2023/03/ofa-grip-handschuhe.png Ofa Grip Handschuhe blau weiß
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/09/Ofa_Fix_klein.jpg Ofa Fix
+    H h2 OFA Fix
+    T Ofa Fix Hautkleber bietet Ihnen ganz einfach sicheren Halt für Ihre medizinischen Kompressionsstrümpfe. Der pH-neutrale 
+    BTN PRODUKT ANFRAGEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== schulsporthilfe-hans-thoma-schule-karlsruhe/ | Schulsporthilfe Hans-Thoma-Schule Karlsruhe | Ortheune | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Ein Ziel unserer Arbeit ist es, Menschen wieder in Bewegung zu bringen… Aus diesem Grund engagieren wir uns auch für soz
+    IMG content/uploads/2023/11/Urkunde-Schulsporthilfe-718x1024.jpg Urkunde Schulsporthilfe
+
+===== service/ | Maßgeschneiderte Beratung für Fußgesundheit & Schuhe | OrthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 SERVICE
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 MAßGESCHNEIDERTE BERATUNG
+    T Neben unseren Produkten und Bewegungsanalysen haben wir für Sie auch einige zusätzliche ergänzende Informationen rund um
+    BTN HIER BERATEN LASSEN ../kontakt/index.html
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-139-768x513.webp orthoKonzept Teamfoto mit sitz
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSERE SERVICE-ANGEBOTE
+    IMG ../wp-content/uploads/2023/03/orthopaedie-1024x229.webp Person senkt den Fuß auf eine 
+    H h3 FUßGYMNASTIK
+    BTN MEHR ERFAHREN fussgymnastik/index.html
+    IMG t/uploads/2023/03/orthopaedische-Sporteinlagen-1024x229.webp Mitarbeiter von orthoKonzept b
+    H h3 SCHUHINFORMATION UND -BERATUNG
+    BTN MEHR ERFAHREN schuhinformation/index.html
+    IMG ./wp-content/uploads/2023/07/sicherheitsschuhe-1024x229.webp sicherheitsschuhe
+    H h3 KOSTENERSTATTUNG SICHERHEITSSCHUHE
+    BTN MEHR ERFAHREN kostenerstattung/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== service/fussgymnastik/ | Fußgymnastik – Effektive Übungen für den Alltag 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 FUßGYMNASTIK
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 EINIGE ÜBUNGEN - SINNVOLL IN DER TÄGLICHEN AWENDUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Einbandstand.webp Uebungen_Einbandstand
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Kurzer-fuss.webp Uebungen_Kurzer-fuss
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../wp-content/uploads/2023/07/Uebungen_Pfenning-sammler.webp Uebungen_Pfenning-sammler
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Kleinzeh-hoch.webp Uebungen_Kleinzeh-hoch
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Grosszeh-hoch.webp Uebungen_Grosszeh-hoch
+    IMG wp-content/uploads/2023/07/Uebungen_Grosszeh-zueinander.webp Uebungen_Grosszeh-zueinander
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Greifer.webp Uebungen_Greifer
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Kuenstler.webp Uebungen_Kuenstler
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../wp-content/uploads/2023/07/Uebungen_Handtuch-wringen.webp Uebungen_Handtuch-wringen
+    IMG /../wp-content/uploads/2023/07/Uebungen_Handtuch-raffen.webp Uebungen_Handtuch-raffen
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Ball-rollen.webp Uebungen_Ball-rollen
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Ball-treten.webp Uebungen_Ball-treten
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Raupengang.webp Uebungen_Raupengang
+    IMG ../../wp-content/uploads/2023/07/Uebungen_Zehenstand.webp Uebungen_Zehenstand
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Zum Vergrößern die Bilder bitte anklicken
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== service/kostenerstattung/ | Kostenerstattung für orthopädische Sicherheitsschuhe: Infos & Anträge 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 KOSTENERSTATTUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Grundsätzlich gilt, dass der Arbeitgeber für die Versorgung mit geeignetem Fußschutz (Persönliche Schutzausrüstung), der
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h3 Wichtig ist:
+    T Der Antrag auf Übernahme der Kosten ist vor dem Kauf beziehungsweise der verbindlichen Bestellung des orthopädischen Hil
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 ABLAUFBESCHREIBUNG
+    T Um einen reibungslosen und zeitnahen Ablauf zu gewährleisten, sollten alle erforderlichen Unterlagen vollständig ausgefü
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== service/schuhinformation/ | Schuhberatung für orthopädische Einlagen & Diabetiker | OrthoKonzept 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 SCHUHINFORMATION UND -BERATUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 ALLES, WAS SIE WISSEN MÜSSEN
+    T Konfektionsschuhe geeignet für orthopädische Einlagen: Nach einer Verordnung von orthopädischen Einlagen durch den Arzt 
+    H h2 .
+    T Orthopädische Einlagen sollten in ihrer materiellen Ausführung dem Anwendungsgebiet angepasst sein. Das bedeutet beispie
+    BTN ZUR BERATUNG ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 GEEIGNETES SCHUHWERK FÜR DIABETIKER
+    T Das wichtigste Kriterium bei der optimalen Schuhauswahl für einen Diabetiker ist die Vermeidung eventueller Druckstellen
+    T Selbstverständlich ist die Schuhauswahl eines Diabetikers immer abhängig vom Grad seiner Erkrankung und dem Zustand sein
+    BTN HIER BERATEN LASSEN ../../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== silvesterlauf-2023/ | orthoKonzept AH-Kreispokal 2024 – Fußball, Leidenschaft & Fairplay | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Mitte Januar 2024 fand die Auslosung für den orthoKonzept AH-Kreispokal Karlsruhe beim Hallenturnier in Langensteinbach 
+    IMG ../wp-content/uploads/2024/01/IMG-20240121-WA0005.jpg Auslosung orthoKonzept AH-Krei
+
+===== silvesterlauf-forchheim-2023/ | Silvesterlauf Forchheim 2022 | orthoKonzept-Team beim Jahreswechsel | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Zum Jahreswechsel beim Forchheimer Silvesterlauf Seit langem vor allem durch Corona bedingt konnten wir endlich mal wied
+    IMG ../wp-content/uploads/2023/09/Silvesterlauf_2023_klein.jpg Silvesterlauf_2023_klein
+
+===== theynis-dein-fuss-dein-design/ | THeynis - Dein Fuß. Dein Design. | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Endlich ist es soweit ! Unsere THEYNIS gehen in Produktion… THeynis sind mehr als nur Schuhe – sie sind ein Statement fü
+    IMG ../wp-content/uploads/2026/03/Theynis-Bildcollage.png 
+
+===== traeublelauf-2026-weingarten/ | Träublelauf 2026 - Weingarten | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Kaum zu glauben, aber wahr: Der Träublelauf fand bereits zum 5. Mal statt, ein halbes Jubiläum. Am dritten Sonntag im Ap
+    IMG /wp-content/uploads/2026/04/IMG-20260420-WA0004-1024x768.jpg 
+
+===== traeublelauf-weingarten-2023/ | Träublelauf Weingarten 2023 | orthoKonzept beim 2. Träublelauf | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Im April fand der 2. Träublelauf in Weingarten statt. Wir waren dieses Jahr mit einem Stand beim Träublelauf vor Ort und
+    IMG ../wp-content/uploads/2023/08/Trublelauf_2023_klein.jpg Trublelauf_2023_klein
+
+===== traeublelauf-weingarten-2025/ | Träublelauf Weingarten 2025 | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T An Ostern dieses Jahr fand wieder der Träublelauf in Weingarten statt. Wir waren wiedereinmal als Unterstützer der erste
+    IMG /wp-content/uploads/2025/05/Zieleinlauf-Sieger-1024x759.jpeg Zieleinlauf Sieger Träublelauf
+
+===== ueber-uns/ | OrthoKonzept – Maßschuhe, Sportler-Versorgung & Orthopädische Hilfsmittel 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 ÜBER ORTHOKONZEPT
+  -- sec cols=0 bg=0 elementor-element background-parallax-left e-flex e-con-boxe
+    IMG ../wp-content/uploads/2023/03/ueber-uns-e1681817478557.webp zwei Mitarbeiter mit grünem He
+    H h2 VOM MAßSCHUH BIS ZUR SPORTLER-VERSORGUNG
+    T Die Firma orthoKonzept ist ein Unternehmen aus dem Bereich der Orthopädieschuhtechnik. Gründer der orthoKonzept sind Jan
+    BTN HIER BERATEN LASSEN ../kontakt/index.html
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSER TEAM
+    T Im Rahmen unserer langjährigen Zusammenarbeit mit Lauf- und Walkingspezialisten sowie mehrerer Sportorthopäden, die auch
+    IMG /wp-content/uploads/2023/03/OrthoKonzept_KA-139-768x513.webp orthoKonzept Teamfoto mit sitz
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 UNSER GESCHÄFT
+    GAL 22
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../kontakt/index.html
+
+===== ueber-uns/partner/ | OrthoKonzept Partner – Unsere Kooperationspartner im Bereich Orthopädie & Sicherheitsschuhe 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 UNSERE PARTNER
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 SCHAUEN SIE AUCH BEI UNSEREN PARTNERN VORBEI!
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    ? tp-clients-listout Innung für Orthopädieschuhtechnik Baden-Württemberg Handwerkskammer Karlsruhe Or
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    ? tp-clients-listout Hersteller Sicherheitsschuhe Großhändler für Orthopädie- und Schuhbedarf Flip-Fl
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    ? tp-clients-listout Laufschuhe und Running-Zubehör Arbeitsschuhe und Arbeitsschutz Praxis für Physio
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    ? tp-clients-listout Praxis für Physiotherapie Badischer Fußballverband orthoKonzept AH-Kreispokal Fu
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    ? tp-clients-listout Hersteller von Einlagenmaterial für Sicherheitsschuhe
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== ueber-uns/zertifizierung/ | Präqualifizierung & Zertifizierung: OrthoKonzept GmbH nach ISO 13485 
+  -- sec cols=0 bg=0 elementor-element header_hoehe e-flex e-con-boxed parallax_s
+    H h1 PRÄQUALIFIZIERUNG / ZERTIFIZIERUNG
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    IMG -content/uploads/2023/09/praequalifizierung-2022-212x300.jpg praequalifizierung-2022
+    H h2 Präqualifizierung
+    T Seit Februar 2012 sind wir nach § 126 Abs. 1 S. 2 SGB V als Leistungserbringer für die Versorgung mit Hilfsmitteln präqu
+    IMG ../../wp-content/uploads/2023/03/zertifikat-218x300.jpg Zertifikat Qualitätsmanagement
+    H h2 Zertifizierung
+    T Wir sind zertifiziert nach DIN EN ISO 13485. Wir haben ein Qualitätsmanagementsystem eingeführt, das die Forderungen der
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    H h2 NA, WO DRÜCKT DER SCHUH?
+    T Hoffentlich gar nicht, wenn er von uns kommt. Ihre Zufriedenheit liegt uns jedoch sehr am Herzen und wir stehen Ihnen je
+    BTN HIER KONTAKTIEREN ../../kontakt/index.html
+
+===== weihnachten-2/ | Silvesterlauf 2023 | orhtoKonzept-Team beim Jahresabschlusslauf | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Wie immer zum Jahreswechsel waren wir auch dieses Mal wieder am Start beim Silvesterlauf 2023 bei den Sportfreunden Forc
+    IMG ../wp-content/uploads/2024/01/1000138664-1024x768.jpg Silvesterlauf 2023
+
+===== weihnachten-2025/ | Frohe Weihnachten 2025 – Geruhsame Feiertage wünscht das orthoKonzept-Team | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Wie jedes Jahr geht es schneller, als man denkt! Bald ist wieder Weihnachten und das Jahr neigt sich dem Ende zu… Das Te
+    IMG /wp-content/uploads/2025/12/IMG-20251114-WA0022-1024x904.jpg Team der orthoKonzept in Weihn
+
+===== weihnachten/ | Frohe Weihnachten vom orthoKonzept-Team – Besinnliche Feiertage und einen guten Rutsch ins neue Jahr | post
+  -- sec cols=0 bg=0 elementor-element e-flex e-con-boxed parallax_section_no qod
+    T Die Zeit rast, bald ist schon wieder Weihnachten und das Jahr neigt sich dem Ende zu… Das Team der orthoKonzept wünscht 
+    IMG ../wp-content/uploads/2023/12/1700841791973-768x1024.jpg Team orthoKonzept
