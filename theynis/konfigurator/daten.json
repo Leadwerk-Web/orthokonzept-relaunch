@@ -1,0 +1,576 @@
+{
+ "version": 3,
+ "stand": "2026-09-26",
+ "models": [
+  {
+   "id": "flip",
+   "name": "Flip",
+   "photo": "modelle/flip.webp",
+   "thumb": "modelle/flip-240.webp",
+   "desc": "Sommerliche Leichtigkeit mit Zehensteg und Fersenstabilisierung."
+  },
+  {
+   "id": "steg",
+   "name": "Steg",
+   "photo": "modelle/steg.webp",
+   "thumb": "modelle/steg-240.webp",
+   "desc": "Die elegante Interpretation des klassischen Flipflops."
+  },
+  {
+   "id": "single",
+   "name": "Single",
+   "photo": "modelle/single.webp",
+   "thumb": "modelle/single-240.webp",
+   "desc": "Ein Riemen: klare Form, hoher Tragekomfort."
+  },
+  {
+   "id": "double",
+   "name": "Double",
+   "photo": "modelle/double.webp",
+   "thumb": "modelle/double-240.webp",
+   "desc": "Zwei Riemen für zusätzliche Führung."
+  },
+  {
+   "id": "triple",
+   "name": "Triple",
+   "photo": "modelle/triple.webp",
+   "thumb": "modelle/triple-240.webp",
+   "desc": "Drei Riemen für die feinste Anpassung."
+  }
+ ],
+ "categories": [
+  {
+   "id": "riemen_flip",
+   "title": "Riemen",
+   "models": [
+    "flip"
+   ],
+   "hint": "Das Obermaterial des Flip-Riemens.",
+   "options": [
+    {
+     "id": "silbergrau",
+     "name": "Silbergrau",
+     "thumb": "materialien/riemen_flip/silbergrau-160.webp",
+     "tex": "materialien/riemen_flip/silbergrau-512.webp",
+     "hex": "#a3a8a5"
+    },
+    {
+     "id": "grau-wabenpraegung",
+     "name": "Grau Wabenprägung",
+     "thumb": "materialien/riemen_flip/grau-wabenpraegung-160.webp",
+     "tex": "materialien/riemen_flip/grau-wabenpraegung-512.webp",
+     "hex": "#7f817c"
+    },
+    {
+     "id": "taupe-wirbelpraegung",
+     "name": "Taupe Wirbelprägung",
+     "thumb": "materialien/riemen_flip/taupe-wirbelpraegung-160.webp",
+     "tex": "materialien/riemen_flip/taupe-wirbelpraegung-512.webp",
+     "hex": "#736b5a"
+    },
+    {
+     "id": "reptil-anthrazit",
+     "name": "Reptil Anthrazit",
+     "thumb": "materialien/riemen_flip/reptil-anthrazit-160.webp",
+     "tex": "materialien/riemen_flip/reptil-anthrazit-512.webp",
+     "hex": "#4d463e"
+    },
+    {
+     "id": "bordeaux",
+     "name": "Bordeaux",
+     "thumb": "materialien/riemen_flip/bordeaux-160.webp",
+     "tex": "materialien/riemen_flip/bordeaux-512.webp",
+     "hex": "#5c171e"
+    },
+    {
+     "id": "bordeaux-glitzer",
+     "name": "Bordeaux Glitzer",
+     "thumb": "materialien/riemen_flip/bordeaux-glitzer-160.webp",
+     "tex": "materialien/riemen_flip/bordeaux-glitzer-512.webp",
+     "hex": "#601d24"
+    },
+    {
+     "id": "kastanie",
+     "name": "Kastanie",
+     "thumb": "materialien/riemen_flip/kastanie-160.webp",
+     "tex": "materialien/riemen_flip/kastanie-512.webp",
+     "hex": "#301812"
+    },
+    {
+     "id": "kroko-dunkelbraun",
+     "name": "Kroko Dunkelbraun",
+     "thumb": "materialien/riemen_flip/kroko-dunkelbraun-160.webp",
+     "tex": "materialien/riemen_flip/kroko-dunkelbraun-512.webp",
+     "hex": "#1c1512"
+    },
+    {
+     "id": "braun-wirbelpraegung",
+     "name": "Braun Wirbelprägung",
+     "thumb": "materialien/riemen_flip/braun-wirbelpraegung-160.webp",
+     "tex": "materialien/riemen_flip/braun-wirbelpraegung-512.webp",
+     "hex": "#4f3827"
+    },
+    {
+     "id": "mokka",
+     "name": "Mokka",
+     "thumb": "materialien/riemen_flip/mokka-160.webp",
+     "tex": "materialien/riemen_flip/mokka-512.webp",
+     "hex": "#372419"
+    },
+    {
+     "id": "nachtblau",
+     "name": "Nachtblau",
+     "thumb": "materialien/riemen_flip/nachtblau-160.webp",
+     "tex": "materialien/riemen_flip/nachtblau-512.webp",
+     "hex": "#121729"
+    },
+    {
+     "id": "marine",
+     "name": "Marine",
+     "thumb": "materialien/riemen_flip/marine-160.webp",
+     "tex": "materialien/riemen_flip/marine-512.webp",
+     "hex": "#202631"
+    }
+   ]
+  },
+  {
+   "id": "riemen",
+   "title": "Riemen",
+   "models": [
+    "steg",
+    "single",
+    "double",
+    "triple"
+   ],
+   "hint": "Leder, Nubuk oder Muster für Ihre Riemen.",
+   "options": [
+    {
+     "id": "blau",
+     "name": "Blau",
+     "thumb": "materialien/riemen/blau-160.webp",
+     "tex": "materialien/riemen/blau-512.webp",
+     "hex": "#4a5596"
+    },
+    {
+     "id": "blume-creme",
+     "name": "Blume Creme",
+     "thumb": "materialien/riemen/blume-creme-160.webp",
+     "tex": "materialien/riemen/blume-creme-512.webp",
+     "hex": "#92745e"
+    },
+    {
+     "id": "blume-weiss",
+     "name": "Blume Weiß",
+     "thumb": "materialien/riemen/blume-weiss-160.webp",
+     "tex": "materialien/riemen/blume-weiss-512.webp",
+     "hex": "#9f897e"
+    },
+    {
+     "id": "bronze",
+     "name": "Bronze",
+     "thumb": "materialien/riemen/bronze-160.webp",
+     "tex": "materialien/riemen/bronze-512.webp",
+     "hex": "#887a5f"
+    },
+    {
+     "id": "camo-snow",
+     "name": "Camo Snow",
+     "thumb": "materialien/riemen/camo-snow-160.webp",
+     "tex": "materialien/riemen/camo-snow-512.webp",
+     "hex": "#949195"
+    },
+    {
+     "id": "camo-tactical",
+     "name": "Camo Tactical",
+     "thumb": "materialien/riemen/camo-tactical-160.webp",
+     "tex": "materialien/riemen/camo-tactical-512.webp",
+     "hex": "#9b7f6f"
+    },
+    {
+     "id": "camo-woodland",
+     "name": "Camo Woodland",
+     "thumb": "materialien/riemen/camo-woodland-160.webp",
+     "tex": "materialien/riemen/camo-woodland-512.webp",
+     "hex": "#646659"
+    },
+    {
+     "id": "graubraun",
+     "name": "Graubraun",
+     "thumb": "materialien/riemen/graubraun-160.webp",
+     "tex": "materialien/riemen/graubraun-512.webp",
+     "hex": "#776757"
+    },
+    {
+     "id": "hellbraun",
+     "name": "Hellbraun",
+     "thumb": "materialien/riemen/hellbraun-160.webp",
+     "tex": "materialien/riemen/hellbraun-512.webp",
+     "hex": "#926039"
+    },
+    {
+     "id": "mosaik-blau",
+     "name": "Mosaik Blau",
+     "thumb": "materialien/riemen/mosaik-blau-160.webp",
+     "tex": "materialien/riemen/mosaik-blau-512.webp",
+     "hex": "#9e9c97"
+    },
+    {
+     "id": "mosaik-rot",
+     "name": "Mosaik Rot",
+     "thumb": "materialien/riemen/mosaik-rot-160.webp",
+     "tex": "materialien/riemen/mosaik-rot-512.webp",
+     "hex": "#91826c"
+    },
+    {
+     "id": "nubuk-braun",
+     "name": "Nubuk Braun",
+     "thumb": "materialien/riemen/nubuk-braun-160.webp",
+     "tex": "materialien/riemen/nubuk-braun-512.webp",
+     "hex": "#3b2e21"
+    },
+    {
+     "id": "nubuk-gold",
+     "name": "Nubuk Gold",
+     "thumb": "materialien/riemen/nubuk-gold-160.webp",
+     "tex": "materialien/riemen/nubuk-gold-512.webp",
+     "hex": "#9b6637"
+    },
+    {
+     "id": "perlmutt",
+     "name": "Perlmutt",
+     "thumb": "materialien/riemen/perlmutt-160.webp",
+     "tex": "materialien/riemen/perlmutt-512.webp",
+     "hex": "#857b64"
+    },
+    {
+     "id": "rosa-glitzer",
+     "name": "Rosa Glitzer",
+     "thumb": "materialien/riemen/rosa-glitzer-160.webp",
+     "tex": "materialien/riemen/rosa-glitzer-512.webp",
+     "hex": "#755d65"
+    },
+    {
+     "id": "ros",
+     "name": "Rosé",
+     "thumb": "materialien/riemen/ros-160.webp",
+     "tex": "materialien/riemen/ros-512.webp",
+     "hex": "#8a8b8d"
+    },
+    {
+     "id": "rot",
+     "name": "Rot",
+     "thumb": "materialien/riemen/rot-160.webp",
+     "tex": "materialien/riemen/rot-512.webp",
+     "hex": "#bd2f42"
+    },
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "thumb": "materialien/riemen/schwarz-160.webp",
+     "tex": "materialien/riemen/schwarz-512.webp",
+     "hex": "#403942"
+    },
+    {
+     "id": "vintage-stone",
+     "name": "Vintage Stone",
+     "thumb": "materialien/riemen/vintage-stone-160.webp",
+     "tex": "materialien/riemen/vintage-stone-512.webp",
+     "hex": "#807a70"
+    },
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "thumb": "materialien/riemen/weiss-160.webp",
+     "tex": "materialien/riemen/weiss-512.webp",
+     "hex": "#a0a4a2"
+    }
+   ]
+  },
+  {
+   "id": "baender",
+   "title": "Bänder",
+   "models": [
+    "flip"
+   ],
+   "hint": "Das farbige Band am Flip-Riemen.",
+   "options": [
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "thumb": "materialien/baender/weiss-160.webp",
+     "tex": "materialien/baender/weiss-512.webp",
+     "hex": "#c4c8d2"
+    },
+    {
+     "id": "grau",
+     "name": "Grau",
+     "thumb": "materialien/baender/grau-160.webp",
+     "tex": "materialien/baender/grau-512.webp",
+     "hex": "#7c7c7c"
+    },
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "thumb": "materialien/baender/schwarz-160.webp",
+     "tex": "materialien/baender/schwarz-512.webp",
+     "hex": "#10100f"
+    },
+    {
+     "id": "gold",
+     "name": "Gold",
+     "thumb": "materialien/baender/gold-160.webp",
+     "tex": "materialien/baender/gold-512.webp",
+     "hex": "#7d612a"
+    },
+    {
+     "id": "tuerkis",
+     "name": "Türkis",
+     "thumb": "materialien/baender/tuerkis-160.webp",
+     "tex": "materialien/baender/tuerkis-512.webp",
+     "hex": "#037a9c"
+    },
+    {
+     "id": "braun",
+     "name": "Braun",
+     "thumb": "materialien/baender/braun-160.webp",
+     "tex": "materialien/baender/braun-512.webp",
+     "hex": "#2e2418"
+    },
+    {
+     "id": "rot",
+     "name": "Rot",
+     "thumb": "materialien/baender/rot-160.webp",
+     "tex": "materialien/baender/rot-512.webp",
+     "hex": "#a5122b"
+    },
+    {
+     "id": "koenigsblau",
+     "name": "Königsblau",
+     "thumb": "materialien/baender/koenigsblau-160.webp",
+     "tex": "materialien/baender/koenigsblau-512.webp",
+     "hex": "#0b287a"
+    },
+    {
+     "id": "violett",
+     "name": "Violett",
+     "thumb": "materialien/baender/violett-160.webp",
+     "tex": "materialien/baender/violett-512.webp",
+     "hex": "#740e83"
+    },
+    {
+     "id": "neongelb",
+     "name": "Neongelb",
+     "thumb": "materialien/baender/neongelb-160.webp",
+     "tex": "materialien/baender/neongelb-512.webp",
+     "hex": "#619803"
+    },
+    {
+     "id": "gruen",
+     "name": "Grün",
+     "thumb": "materialien/baender/gruen-160.webp",
+     "tex": "materialien/baender/gruen-512.webp",
+     "hex": "#125b44"
+    }
+   ]
+  },
+  {
+   "id": "fussbett",
+   "title": "Fußbett",
+   "models": null,
+   "hint": "Die Oberfläche, auf der Ihr Fuß steht.",
+   "options": [
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "thumb": "materialien/fussbett/schwarz-160.webp",
+     "tex": "materialien/fussbett/schwarz-1024.webp",
+     "hex": "#05070a"
+    },
+    {
+     "id": "taubenblau",
+     "name": "Taubenblau",
+     "thumb": "materialien/fussbett/taubenblau-160.webp",
+     "tex": "materialien/fussbett/taubenblau-1024.webp",
+     "hex": "#0f1e2b"
+    },
+    {
+     "id": "anthrazit",
+     "name": "Anthrazit",
+     "thumb": "materialien/fussbett/anthrazit-160.webp",
+     "tex": "materialien/fussbett/anthrazit-1024.webp",
+     "hex": "#2f2f2c"
+    },
+    {
+     "id": "sand-gesprenkelt",
+     "name": "Sand gesprenkelt",
+     "thumb": "materialien/fussbett/sand-gesprenkelt-160.webp",
+     "tex": "materialien/fussbett/sand-gesprenkelt-1024.webp",
+     "hex": "#836733"
+    },
+    {
+     "id": "marmor-rot",
+     "name": "Marmor Rot",
+     "thumb": "materialien/fussbett/marmor-rot-160.webp",
+     "tex": "materialien/fussbett/marmor-rot-1024.webp",
+     "hex": "#724149"
+    },
+    {
+     "id": "marmor-gruen",
+     "name": "Marmor Grün",
+     "thumb": "materialien/fussbett/marmor-gruen-160.webp",
+     "tex": "materialien/fussbett/marmor-gruen-1024.webp",
+     "hex": "#202d18"
+    },
+    {
+     "id": "marmor-blau",
+     "name": "Marmor Blau",
+     "thumb": "materialien/fussbett/marmor-blau-160.webp",
+     "tex": "materialien/fussbett/marmor-blau-1024.webp",
+     "hex": "#1e496e"
+    },
+    {
+     "id": "marmor-schwarz",
+     "name": "Marmor Schwarz",
+     "thumb": "materialien/fussbett/marmor-schwarz-160.webp",
+     "tex": "materialien/fussbett/marmor-schwarz-1024.webp",
+     "hex": "#32332b"
+    }
+   ]
+  },
+  {
+   "id": "zwischensohle",
+   "title": "Zwischensohle",
+   "models": null,
+   "hint": "Die farbige Schicht zwischen Fußbett und Laufsohle.",
+   "options": [
+    {
+     "id": "rot",
+     "name": "Rot",
+     "thumb": "materialien/zwischensohle/rot-160.webp",
+     "tex": "materialien/zwischensohle/rot-512.webp",
+     "hex": "#cf2636"
+    },
+    {
+     "id": "gruen",
+     "name": "Grün",
+     "thumb": "materialien/zwischensohle/gruen-160.webp",
+     "tex": "materialien/zwischensohle/gruen-512.webp",
+     "hex": "#07954e"
+    },
+    {
+     "id": "orange",
+     "name": "Orange",
+     "thumb": "materialien/zwischensohle/orange-160.webp",
+     "tex": "materialien/zwischensohle/orange-512.webp",
+     "hex": "#c16505"
+    },
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "thumb": "materialien/zwischensohle/weiss-160.webp",
+     "tex": "materialien/zwischensohle/weiss-512.webp",
+     "hex": "#939897"
+    },
+    {
+     "id": "blau",
+     "name": "Blau",
+     "thumb": "materialien/zwischensohle/blau-160.webp",
+     "tex": "materialien/zwischensohle/blau-512.webp",
+     "hex": "#0052ae"
+    },
+    {
+     "id": "hellgrau",
+     "name": "Hellgrau",
+     "thumb": "materialien/zwischensohle/hellgrau-160.webp",
+     "tex": "materialien/zwischensohle/hellgrau-512.webp",
+     "hex": "#848582"
+    },
+    {
+     "id": "limette",
+     "name": "Limette",
+     "thumb": "materialien/zwischensohle/limette-160.webp",
+     "tex": "materialien/zwischensohle/limette-512.webp",
+     "hex": "#8a9a02"
+    },
+    {
+     "id": "anthrazit",
+     "name": "Anthrazit",
+     "thumb": "materialien/zwischensohle/anthrazit-160.webp",
+     "tex": "materialien/zwischensohle/anthrazit-512.webp",
+     "hex": "#342e26"
+    },
+    {
+     "id": "gelb",
+     "name": "Gelb",
+     "thumb": "materialien/zwischensohle/gelb-160.webp",
+     "tex": "materialien/zwischensohle/gelb-512.webp",
+     "hex": "#b19701"
+    },
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "thumb": "materialien/zwischensohle/schwarz-160.webp",
+     "tex": "materialien/zwischensohle/schwarz-512.webp",
+     "hex": "#292520"
+    },
+    {
+     "id": "nachtblau",
+     "name": "Nachtblau",
+     "thumb": "materialien/zwischensohle/nachtblau-160.webp",
+     "tex": "materialien/zwischensohle/nachtblau-512.webp",
+     "hex": "#2c3b4c"
+    },
+    {
+     "id": "braun",
+     "name": "Braun",
+     "thumb": "materialien/zwischensohle/braun-160.webp",
+     "tex": "materialien/zwischensohle/braun-512.webp",
+     "hex": "#826649"
+    },
+    {
+     "id": "beere",
+     "name": "Beere",
+     "thumb": "materialien/zwischensohle/beere-160.webp",
+     "tex": "materialien/zwischensohle/beere-512.webp",
+     "hex": "#a14b63"
+    },
+    {
+     "id": "aubergine",
+     "name": "Aubergine",
+     "thumb": "materialien/zwischensohle/aubergine-160.webp",
+     "tex": "materialien/zwischensohle/aubergine-512.webp",
+     "hex": "#886283"
+    }
+   ]
+  },
+  {
+   "id": "sohle",
+   "title": "Laufsohle",
+   "models": null,
+   "hint": "Die Laufsohle mit Profil.",
+   "options": [
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "thumb": "materialien/sohle/schwarz-160.webp",
+     "tex": "materialien/sohle/schwarz-512.webp",
+     "hex": "#000000"
+    },
+    {
+     "id": "grau",
+     "name": "Grau",
+     "thumb": "materialien/sohle/grau-160.webp",
+     "tex": "materialien/sohle/grau-512.webp",
+     "hex": "#808080"
+    },
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "thumb": "materialien/sohle/weiss-160.webp",
+     "tex": "materialien/sohle/weiss-512.webp",
+     "hex": "#ffffff"
+    }
+   ]
+  }
+ ]
+}
