@@ -1677,10 +1677,10 @@ def fix_headings(html_s):
     return re.sub(r"<h([1-6])([^>]*)>(.*?)</h\1>", rep, html_s, flags=re.S)
 
 
-def assemble(key, meta, crumbs, main, kind="page", extra_ld=None, preload=None, noindex=False, body_cls=""):
+def assemble(key, meta, crumbs, main, kind="page", extra_ld=None, preload=None, noindex=False, body_cls="", closing=True):
     main = fix_headings(main)
     return (head(key, meta, crumbs, kind, extra_ld, preload, noindex) +
-            f'\n<body class="{body_cls}">\n{render_header(key)}\n<main id="inhalt" tabindex="-1">\n{main}\n{render_closing_cta()}\n</main>\n{render_footer()}\n</body>\n</html>\n')
+            f'\n<body class="{body_cls}">\n{render_header(key)}\n<main id="inhalt" tabindex="-1">\n{main}\n{render_closing_cta() if closing else ""}\n</main>\n{render_footer()}\n</body>\n</html>\n')
 
 
 def service_ld(key, meta):
@@ -1688,6 +1688,80 @@ def service_ld(key, meta):
         return None
     return [{"@type": "Service", "@id": DOMAIN + "/" + key + "#service", "name": page_name(key), "description": meta["description"],
              "provider": {"@id": BUSINESS_ID}, "areaServed": {"@type": "City", "name": "Karlsruhe"}, "url": DOMAIN + "/" + key}]
+
+
+# ─────────────────────── Begrüßungsseite (Vorschau) ───────────────────────
+# Persönliche Seite für Herrn Theune, erreichbar nur über den QR-Code im Begrüßungsbrief:
+# noindex, nicht im Menü, nicht in der Sitemap, ohne Kontakt-Abschluss und ohne Cookie-Hinweis beim
+# Öffnen (die Seite lädt nichts von Dritten). Vor einem Livegang der neuen Seite abschalten.
+WILLKOMMEN = True
+FILM_DAUER = "0:58"
+
+
+def copy_media_dir(name):
+    """Kopiert ../_medien/<name>/ nach site/media/<name>/ (nur geänderte Dateien)."""
+    src, dst = os.path.join(PROJ, "_medien", name), os.path.join(MEDIA, name)
+    os.makedirs(dst, exist_ok=True)
+    for f in os.listdir(src):
+        s, d = os.path.join(src, f), os.path.join(dst, f)
+        if not os.path.exists(d) or os.path.getsize(s) != os.path.getsize(d) or os.path.getmtime(s) > os.path.getmtime(d):
+            shutil.copy2(s, d)
+
+
+def build_willkommen():
+    copy_media_dir("willkommen")
+    key = "willkommen/"
+    meta = {"title": "Willkommen zurück | orthoKonzept",
+            "description": "Ein erster Blick auf den neuen Webauftritt von orthoKonzept, als kurzer Film.",
+            "image": "/media/willkommen/film-poster.jpg"}
+    crumbs = [("Startseite", "/"), ("Willkommen zurück", "/" + key)]
+    ton = '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M19 5a10 10 0 0 1 0 14"/></svg>'
+    nochmal = '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>'
+    zu = '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>'
+    handy = '<svg class="film__phone" viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="2" width="11" height="20" rx="2.6"/><path d="M10.5 18.6h3"/></svg>'
+    main = f'''<section class="whero" aria-labelledby="willkommen-h">
+  <div class="wrap">
+    <div class="whero__head">
+      <p class="eyebrow">Willkommen zurück</p>
+      <h1 id="willkommen-h">Schön, dass Sie wieder da sind, Herr Theune.</h1>
+      <p class="whero__sub">Wir haben etwas für orthoKonzept vorbereitet: einen ersten Blick auf Ihren neuen Webauftritt, in knapp einer Minute.</p>
+    </div>
+    <figure class="film" data-film>
+      <div class="film__frame">
+        <div class="film__stage">
+          <video class="film__video" controls playsinline preload="none" poster="/media/willkommen/film-poster.jpg" width="1280" height="720" controlslist="nodownload noremoteplayback" disablepictureinpicture aria-label="Film: ein erster Blick auf den neuen Webauftritt von orthoKonzept">
+            <source src="/media/willkommen/film.mp4" type="video/mp4">
+          </video>
+          <button type="button" class="film__play" data-film-play aria-label="Film abspielen, {FILM_DAUER} Minuten, mit Ton"><span class="film__icon">{ICONS["play"]}</span><span class="film__label">Film ansehen</span><span class="film__dur">{FILM_DAUER}</span></button>
+          <div class="film__end">
+            <p class="film__endtxt">Jetzt selbst entdecken</p>
+            <a class="btn btn--primary btn--lg" href="/"><span>Zum neuen Webauftritt</span>{ICONS["arrow"]}</a>
+            <button type="button" class="film__again" data-film-again>{nochmal}<span>Noch einmal ansehen</span></button>
+          </div>
+          <button type="button" class="film__close" data-film-close aria-label="Großansicht schließen">{zu}</button>
+        </div>
+        <div class="film__turn" aria-hidden="true">{handy}<strong>Handy quer halten</strong><span>für das volle Bild</span></div>
+      </div>
+      <figcaption class="film__cap"><span class="film__cap-d">{ton}Am besten mit Ton.</span><span class="film__cap-m">{handy}Am besten mit Ton und im Querformat.</span></figcaption>
+    </figure>
+  </div>
+</section>
+<section class="sec wthanks">
+  <div class="wrap">
+    <blockquote class="wquote"><p>„Das Schönste an der Arbeit sind die Menschen, mit denen man sie teilt.“</p></blockquote>
+    <p class="lead">Danke für fast zwei Jahre gute Zusammenarbeit und für Ihr Vertrauen. Wir freuen uns auf alles, was jetzt kommt.</p>
+    <p class="wsign">Florian Schück und Fatih Madak<span>Leadwerk</span></p>
+  </div>
+</section>
+<section class="sec tone-soft wcta">
+  <div class="wrap wcta__in">
+    <p class="eyebrow">Die Vorschau</p>
+    <h2>Jetzt selbst entdecken</h2>
+    <p>Alle Seiten und Inhalte von orthoKonzept, neu gestaltet und komplett durchklickbar.</p>
+    <a class="btn btn--primary btn--lg" href="/"><span>Zum neuen Webauftritt</span>{ICONS["arrow"]}</a>
+  </div>
+</section>'''
+    return key, meta, crumbs, main
 
 
 def main():
@@ -1726,6 +1800,10 @@ def main():
             if key in ("impressum/", "datenschutzerklaerung/", "nutzungsbedingungen/", "erklaerung-zur-barrierefreiheit/"):
                 prio = 0.2
             sitemap.append((key, prio))
+
+    if WILLKOMMEN:  # bewusst nicht in der Sitemap
+        key, meta, crumbs, body = build_willkommen()
+        write_page(key, assemble(key, meta, crumbs, body, noindex=True, body_cls="is-welcome consent-quiet", closing=False))
 
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for k, pr in sitemap:

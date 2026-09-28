@@ -167,6 +167,78 @@
     b.replaceWith(f);
   });
 
+  /* ── Film (Begrüßungsseite): eigener Start-Knopf, Kinomodus im Querformat auf dem Handy,
+        am Ende der Weg zur Vorschau ── */
+  $$('[data-film]').forEach(fig => {
+    const v = $('video', fig);
+    const frame = $('.film__frame', fig);
+    const play = $('[data-film-play]', fig);
+    if (!v || !frame || !play) return;
+    v.controls = false;
+    const phone = matchMedia('(pointer: coarse) and (max-width: 600px), (pointer: coarse) and (max-height: 500px)');
+    const portrait = matchMedia('(orientation: portrait)');
+    let cinema = false, fsOn = false, turnT = 0;
+
+    // Handy: Film füllt den Bildschirm im Querformat. Android bekommt echtes Vollbild und dreht selbst,
+    // das iPhone erlaubt Webseiten beides nicht, dort legt CSS den Film quer (auch bei Hochformatsperre).
+    const openCinema = () => {
+      if (cinema || !phone.matches) return;
+      cinema = true;
+      fig.classList.add('is-cinema');
+      document.documentElement.classList.add('film-open');
+      if (v.controlsList) v.controlsList.add('nofullscreen');
+      if (portrait.matches) {
+        fig.classList.add('show-turn');
+        clearTimeout(turnT);
+        turnT = setTimeout(() => fig.classList.remove('show-turn'), 3400);
+      }
+      if (frame.requestFullscreen && screen.orientation && screen.orientation.lock) {
+        frame.requestFullscreen({ navigationUI: 'hide' })
+          .then(() => screen.orientation.lock('landscape'))
+          .catch(() => {});
+      }
+    };
+    const closeCinema = () => {
+      if (!cinema) return;
+      cinema = false;
+      clearTimeout(turnT);
+      fig.classList.remove('is-cinema', 'show-turn');
+      document.documentElement.classList.remove('film-open');
+      if (v.controlsList) v.controlsList.remove('nofullscreen');
+      try { if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock(); } catch (e) { /* nicht gesperrt */ }
+      if (document.fullscreenElement === frame && document.exitFullscreen) document.exitFullscreen().catch(() => {});
+    };
+    document.addEventListener('fullscreenchange', () => {
+      if (document.fullscreenElement === frame) fsOn = true;
+      else if (fsOn) { fsOn = false; closeCinema(); }
+    });
+    portrait.addEventListener('change', () => { if (!portrait.matches) fig.classList.remove('show-turn'); });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeCinema(); });
+
+    const start = () => {
+      fig.classList.remove('is-ended');
+      fig.classList.add('is-playing');
+      v.controls = true;
+      const p = v.play();
+      if (p && p.catch) p.catch(() => { fig.classList.remove('is-playing'); v.controls = false; closeCinema(); });
+      openCinema();
+    };
+    play.addEventListener('click', start);
+    v.addEventListener('click', () => { if (!fig.classList.contains('is-playing')) start(); });
+    const again = $('[data-film-again]', fig);
+    if (again) again.addEventListener('click', () => { v.currentTime = 0; start(); });
+    const close = $('[data-film-close]', fig);
+    if (close) close.addEventListener('click', closeCinema);
+    v.addEventListener('ended', () => {
+      fig.classList.remove('is-playing');
+      fig.classList.add('is-ended');
+      v.controls = false;
+      // im Kinomodus bleibt der Abschluss groß stehen, sonst ein etwaiges Vollbild des Players verlassen
+      if (!cinema && v.webkitDisplayingFullscreen && v.webkitExitFullscreen) v.webkitExitFullscreen();
+      if (!cinema && document.fullscreenElement && document.exitFullscreen) document.exitFullscreen().catch(() => {});
+    });
+  });
+
   /* ── Google Maps erst nach Klick ── */
   document.addEventListener('click', e => {
     const b = e.target.closest('[data-map-load]');
@@ -195,7 +267,8 @@
   };
   if (consent) {
     const choice = store.get('ok-consent');
-    if (!choice) consent.hidden = false;
+    // Seiten ohne Inhalte von Dritten (Begrüßungsseite) fragen erst auf der nächsten Seite
+    if (!choice && !document.body.classList.contains('consent-quiet')) consent.hidden = false;
     if (choice === 'all') loadGtm();
     $$('[data-consent-choice]', consent).forEach(b => b.addEventListener('click', () => {
       store.set('ok-consent', b.dataset.consentChoice);
