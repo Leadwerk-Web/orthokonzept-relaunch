@@ -54,12 +54,15 @@ FARBEN = {
 KATEGORIEN = [
     # id, Titel, Ordner, gilt für Modelle, Hinweis
     ("riemen_flip", "Riemen", "Riemen/flip", ["flip"], "Das Obermaterial des Flip-Riemens."),
-    ("riemen", "Riemen", "Riemen/steg, single,double, triple", ["steg", "single", "double", "triple"], "Leder, Nubuk oder Muster für Ihre Riemen."),
+    ("riemen", "Riemen", "Riemen/steg, single,double, triple", ["steg", "single", "double", "triple"], "Leder, Nubuk oder Muster für deine Riemen."),
     ("baender", "Bänder", "Bänder für flip-Modelle", ["flip"], "Das farbige Band am Flip-Riemen."),
-    ("fussbett", "Fußbett", "Fußbett für alle THeynis-Modelle", None, "Die Oberfläche, auf der Ihr Fuß steht."),
+    ("fussbett", "Fußbett", "Fußbett für alle THeynis-Modelle", None, "Die Oberfläche, auf der dein Fuß steht."),
     ("zwischensohle", "Zwischensohle", "Zwischensohlen für alle THeynis-Modelle", None, "Die farbige Schicht zwischen Fußbett und Laufsohle."),
     ("sohle", "Laufsohle", "Sohlen für alle THeynis-Modelle", None, "Die Laufsohle mit Profil."),
 ]
+
+# Kategorien, in denen Dateien mit HEX-Code im Namen als einfarbig gelten (Farbtreue, 01.10.2026)
+EINFARBIG = {"baender", "fussbett", "zwischensohle", "sohle"}
 
 MODELLE = [
     ("flip", "Flip", "wp-content/uploads/2026/03/THeynis-Flip-1.png", "Sommerliche Leichtigkeit mit Zehensteg und Fersenstabilisierung."),
@@ -130,7 +133,13 @@ def main():
             seen.add(oid)
             big = 1024 if cid == "fussbett" else 512
             v = save_variants(im, f"materialien/{cid}/{oid}", (160, big))
-            opts.append({"id": oid, "name": name, "thumb": v[160], "tex": v[big], "hex": avg_hex(im)})
+            o = {"id": oid, "name": name, "thumb": v[160], "tex": v[big], "hex": avg_hex(im)}
+            # Einfarbige Materialien: Kundenfarbe aus dem Dateinamen ist die Grundfarbe, das Foto liefert nur
+            # noch etwas Struktur. Muster und Riemen bleiben Foto.
+            hexm = re.search(r"#([0-9A-Fa-f]{6})", fn)
+            if hexm and cid in EINFARBIG:
+                o["farbe"] = "#" + hexm.group(1).upper()
+            opts.append(o)
         cats.append({"id": cid, "title": title, "models": models, "hint": hint, "options": opts})
         print(cid, len(opts))
 
