@@ -142,7 +142,7 @@
     "double",
     "triple"
    ],
-   "hint": "Leder, Nubuk oder Muster für Ihre Riemen.",
+   "hint": "Leder, Nubuk oder Muster für deine Riemen.",
    "options": [
     {
      "id": "blau",
@@ -299,77 +299,88 @@
      "name": "Weiß",
      "thumb": "materialien/baender/weiss-160.webp",
      "tex": "materialien/baender/weiss-512.webp",
-     "hex": "#c4c8d2"
+     "hex": "#c4c8d2",
+     "farbe": "#EEEEEE"
     },
     {
      "id": "grau",
      "name": "Grau",
      "thumb": "materialien/baender/grau-160.webp",
      "tex": "materialien/baender/grau-512.webp",
-     "hex": "#7c7c7c"
+     "hex": "#7c7c7c",
+     "farbe": "#8F939D"
     },
     {
      "id": "schwarz",
      "name": "Schwarz",
      "thumb": "materialien/baender/schwarz-160.webp",
      "tex": "materialien/baender/schwarz-512.webp",
-     "hex": "#10100f"
+     "hex": "#10100f",
+     "farbe": "#000000"
     },
     {
      "id": "gold",
      "name": "Gold",
      "thumb": "materialien/baender/gold-160.webp",
      "tex": "materialien/baender/gold-512.webp",
-     "hex": "#7d612a"
+     "hex": "#7d612a",
+     "farbe": "#B18D49"
     },
     {
      "id": "tuerkis",
      "name": "Türkis",
      "thumb": "materialien/baender/tuerkis-160.webp",
      "tex": "materialien/baender/tuerkis-512.webp",
-     "hex": "#037a9c"
+     "hex": "#037a9c",
+     "farbe": "#1B97B3"
     },
     {
      "id": "braun",
      "name": "Braun",
      "thumb": "materialien/baender/braun-160.webp",
      "tex": "materialien/baender/braun-512.webp",
-     "hex": "#2e2418"
+     "hex": "#2e2418",
+     "farbe": "#6B5445"
     },
     {
      "id": "rot",
      "name": "Rot",
      "thumb": "materialien/baender/rot-160.webp",
      "tex": "materialien/baender/rot-512.webp",
-     "hex": "#a5122b"
+     "hex": "#a5122b",
+     "farbe": "#A4122D"
     },
     {
      "id": "koenigsblau",
      "name": "Königsblau",
      "thumb": "materialien/baender/koenigsblau-160.webp",
      "tex": "materialien/baender/koenigsblau-512.webp",
-     "hex": "#0b287a"
+     "hex": "#0b287a",
+     "farbe": "#0038BF"
     },
     {
      "id": "violett",
      "name": "Violett",
      "thumb": "materialien/baender/violett-160.webp",
      "tex": "materialien/baender/violett-512.webp",
-     "hex": "#740e83"
+     "hex": "#740e83",
+     "farbe": "#8B2E9B"
     },
     {
      "id": "neongelb",
      "name": "Neongelb",
      "thumb": "materialien/baender/neongelb-160.webp",
      "tex": "materialien/baender/neongelb-512.webp",
-     "hex": "#619803"
+     "hex": "#619803",
+     "farbe": "#BAF200"
     },
     {
      "id": "gruen",
      "name": "Grün",
      "thumb": "materialien/baender/gruen-160.webp",
      "tex": "materialien/baender/gruen-512.webp",
-     "hex": "#125b44"
+     "hex": "#125b44",
+     "farbe": "#228E5B"
     }
    ]
   },
@@ -377,35 +388,39 @@
    "id": "fussbett",
    "title": "Fußbett",
    "models": null,
-   "hint": "Die Oberfläche, auf der Ihr Fuß steht.",
+   "hint": "Die Oberfläche, auf der dein Fuß steht.",
    "options": [
     {
      "id": "schwarz",
      "name": "Schwarz",
      "thumb": "materialien/fussbett/schwarz-160.webp",
      "tex": "materialien/fussbett/schwarz-1024.webp",
-     "hex": "#05070a"
+     "hex": "#05070a",
+     "farbe": "#242323"
     },
     {
      "id": "taubenblau",
      "name": "Taubenblau",
      "thumb": "materialien/fussbett/taubenblau-160.webp",
      "tex": "materialien/fussbett/taubenblau-1024.webp",
-     "hex": "#0f1e2b"
+     "hex": "#0f1e2b",
+     "farbe": "#4C6B80"
     },
     {
      "id": "anthrazit",
      "name": "Anthrazit",
      "thumb": "materialien/fussbett/anthrazit-160.webp",
      "tex": "materialien/fussbett/anthrazit-1024.webp",
-     "hex": "#2f2f2c"
+     "hex": "#2f2f2c",
+     "farbe": "#848381"
     },
     {
      "id": "sand-gesprenkelt",
      "name": "Sand gesprenkelt",
      "thumb": "materialien/fussbett/sand-gesprenkelt-160.webp",
      "tex": "materialien/fussbett/sand-gesprenkelt-1024.webp",
-     "hex": "#836733"
+     "hex": "#836733",
+     "farbe": "#C99F63"
     },
     {
      "id": "marmor-rot",
@@ -448,98 +463,112 @@
      "name": "Rot",
      "thumb": "materialien/zwischensohle/rot-160.webp",
      "tex": "materialien/zwischensohle/rot-512.webp",
-     "hex": "#cf2636"
+     "hex": "#cf2636",
+     "farbe": "#DA1831"
     },
     {
      "id": "gruen",
      "name": "Grün",
      "thumb": "materialien/zwischensohle/gruen-160.webp",
      "tex": "materialien/zwischensohle/gruen-512.webp",
-     "hex": "#07954e"
+     "hex": "#07954e",
+     "farbe": "#158749"
     },
     {
      "id": "orange",
      "name": "Orange",
      "thumb": "materialien/zwischensohle/orange-160.webp",
      "tex": "materialien/zwischensohle/orange-512.webp",
-     "hex": "#c16505"
+     "hex": "#c16505",
+     "farbe": "#E66A0A"
     },
     {
      "id": "weiss",
      "name": "Weiß",
      "thumb": "materialien/zwischensohle/weiss-160.webp",
      "tex": "materialien/zwischensohle/weiss-512.webp",
-     "hex": "#939897"
+     "hex": "#939897",
+     "farbe": "#F3F6F4"
     },
     {
      "id": "blau",
      "name": "Blau",
      "thumb": "materialien/zwischensohle/blau-160.webp",
      "tex": "materialien/zwischensohle/blau-512.webp",
-     "hex": "#0052ae"
+     "hex": "#0052ae",
+     "farbe": "#3D85C6"
     },
     {
      "id": "hellgrau",
      "name": "Hellgrau",
      "thumb": "materialien/zwischensohle/hellgrau-160.webp",
      "tex": "materialien/zwischensohle/hellgrau-512.webp",
-     "hex": "#848582"
+     "hex": "#848582",
+     "farbe": "#999999"
     },
     {
      "id": "limette",
      "name": "Limette",
      "thumb": "materialien/zwischensohle/limette-160.webp",
      "tex": "materialien/zwischensohle/limette-512.webp",
-     "hex": "#8a9a02"
+     "hex": "#8a9a02",
+     "farbe": "#B8C41A"
     },
     {
      "id": "anthrazit",
      "name": "Anthrazit",
      "thumb": "materialien/zwischensohle/anthrazit-160.webp",
      "tex": "materialien/zwischensohle/anthrazit-512.webp",
-     "hex": "#342e26"
+     "hex": "#342e26",
+     "farbe": "#3D3336"
     },
     {
      "id": "gelb",
      "name": "Gelb",
      "thumb": "materialien/zwischensohle/gelb-160.webp",
      "tex": "materialien/zwischensohle/gelb-512.webp",
-     "hex": "#b19701"
+     "hex": "#b19701",
+     "farbe": "#F3CF00"
     },
     {
      "id": "schwarz",
      "name": "Schwarz",
      "thumb": "materialien/zwischensohle/schwarz-160.webp",
      "tex": "materialien/zwischensohle/schwarz-512.webp",
-     "hex": "#292520"
+     "hex": "#292520",
+     "farbe": "#131017"
     },
     {
      "id": "nachtblau",
      "name": "Nachtblau",
      "thumb": "materialien/zwischensohle/nachtblau-160.webp",
      "tex": "materialien/zwischensohle/nachtblau-512.webp",
-     "hex": "#2c3b4c"
+     "hex": "#2c3b4c",
+     "farbe": "#242E40"
     },
     {
      "id": "braun",
      "name": "Braun",
      "thumb": "materialien/zwischensohle/braun-160.webp",
      "tex": "materialien/zwischensohle/braun-512.webp",
-     "hex": "#826649"
+     "hex": "#826649",
+     "farbe": "#7F5541"
     },
     {
      "id": "beere",
      "name": "Beere",
      "thumb": "materialien/zwischensohle/beere-160.webp",
      "tex": "materialien/zwischensohle/beere-512.webp",
-     "hex": "#a14b63"
+     "hex": "#a14b63",
+     "farbe": "#AA496D"
     },
     {
      "id": "aubergine",
      "name": "Aubergine",
      "thumb": "materialien/zwischensohle/aubergine-160.webp",
      "tex": "materialien/zwischensohle/aubergine-512.webp",
-     "hex": "#886283"
+     "hex": "#886283",
+     "farbe": "#502B4F"
     }
    ]
   },
@@ -554,21 +583,24 @@
      "name": "Schwarz",
      "thumb": "materialien/sohle/schwarz-160.webp",
      "tex": "materialien/sohle/schwarz-512.webp",
-     "hex": "#000000"
+     "hex": "#000000",
+     "farbe": "#000000"
     },
     {
      "id": "grau",
      "name": "Grau",
      "thumb": "materialien/sohle/grau-160.webp",
      "tex": "materialien/sohle/grau-512.webp",
-     "hex": "#808080"
+     "hex": "#808080",
+     "farbe": "#919098"
     },
     {
      "id": "weiss",
      "name": "Weiß",
      "thumb": "materialien/sohle/weiss-160.webp",
      "tex": "materialien/sohle/weiss-512.webp",
-     "hex": "#ffffff"
+     "hex": "#ffffff",
+     "farbe": "#F3F6F4"
     }
    ]
   }

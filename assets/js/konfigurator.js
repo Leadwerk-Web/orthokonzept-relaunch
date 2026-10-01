@@ -54,8 +54,18 @@
   /* ── Vorschau (SVG) ── */
   const tex = cid => { const o = opt(cid); return o ? BASE + o.tex : ''; };
   const hex = cid => { const o = opt(cid); return o ? o.hex : '#888'; };
-  const pattern = (id, cid, size, x = 0, y = 0) =>
-    `<pattern id="${id}" patternUnits="userSpaceOnUse" x="${x}" y="${y}" width="${size}" height="${size}"><rect width="${size}" height="${size}" fill="${hex(cid)}"/><image href="${tex(cid)}" width="${size}" height="${size}" preserveAspectRatio="xMidYMid slice"/></pattern>`;
+  // Einfarbige Materialien (o.farbe = HEX des Kunden): Grundfarbe exakt, Foto nur leicht als Struktur darüber
+  const STRUKTUR = .2;
+  const pattern = (id, cid, size, x = 0, y = 0) => {
+    const o = opt(cid);
+    const f = o && o.farbe;
+    return `<pattern id="${id}" patternUnits="userSpaceOnUse" x="${x}" y="${y}" width="${size}" height="${size}"><rect width="${size}" height="${size}" fill="${f || hex(cid)}"/><image href="${tex(cid)}" width="${size}" height="${size}" preserveAspectRatio="xMidYMid slice"${f ? ` opacity="${STRUKTUR}"` : ''}/></pattern>`;
+  };
+  // Hintergrund für Auswahlfelder und Chips, gleiche Logik wie in der Vorschau
+  const rgba = (h, a) => { const n = parseInt(h.slice(1), 16); return `rgba(${n >> 16},${(n >> 8) & 255},${n & 255},${a})`; };
+  const bg = o => o.farbe
+    ? `background-color:${o.farbe};background-image:linear-gradient(${rgba(o.farbe, 1 - STRUKTUR)},${rgba(o.farbe, 1 - STRUKTUR)}),url(${BASE + o.thumb})`
+    : `background-image:url(${BASE + o.thumb})`;
 
   const FOOT = 'M150 153C230 150 280 172 340 164C400 156 450 118 520 114C600 108 680 112 712 150C735 180 725 228 690 256C650 290 580 300 520 300C440 300 380 284 320 284C260 284 200 290 150 280C95 270 78 240 78 215C78 185 100 157 150 153Z';
   const STRAPS_TOP = {
@@ -90,9 +100,10 @@
       (top.thong ? `<circle cx="628" cy="160" r="${m === 'flip' ? 11 : 14}" fill="url(#t-riemen)" stroke="#0b1a19" stroke-opacity=".35" stroke-width="2"/>` : '') +
       (top.buckle || []).map(b => buckle(...b)).join('');
 
-    const SOLE_SIDE = 'M70 164L730 164Q748 165 744 172Q740 180 724 180L86 180Q66 180 64 172Q63 164 70 164Z';
-    const MID_SIDE = 'M64 151L738 151Q747 153 745 159L743 164L68 164Q61 159 64 151Z';
-    const BED_SIDE = 'M60 78C70 76 90 94 140 96C200 98 260 84 320 84C390 84 450 100 520 104C580 106 610 96 645 98C690 100 725 108 742 118C749 128 747 142 738 151L64 151C57 128 56 100 60 78Z';
+    // Schichtdicken nach Flyer und Modellfotos (01.10.2026): Fußbett : Zwischensohle : Laufsohle etwa 11 : 1 : 2
+    const SOLE_SIDE = 'M70 167L732 167Q746 168 744 173Q740 180 724 180L86 180Q66 180 64 173Q63 167 70 167Z';
+    const MID_SIDE = 'M64 160.5L740 160.5Q746 162 745 165L744 167L68 167Q62 164 64 160.5Z';
+    const BED_SIDE = 'M60 78C70 76 90 94 140 96C200 98 260 84 320 84C390 84 450 100 520 104C580 106 610 96 645 98C690 100 725 108 742 118C750 130 749 150 740 160.5L64 160.5C56 132 56 100 60 78Z';
     let strapSide = '';
     if (side.thong) {
       strapSide = `<path d="${side.thong}" stroke="url(#t-riemen)" stroke-width="${side.w}" stroke-linecap="round" fill="none"/>` +
@@ -122,12 +133,12 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
 </defs>
 <g class="cfg-top" transform="translate(-6 -4) rotate(-9 400 220)">
   <ellipse cx="410" cy="330" rx="330" ry="36" fill="#0b1a19" opacity=".2" filter="url(#soft)"/>
-  <path d="${FOOT}" fill="url(#t-sohle)" stroke="url(#t-sohle)" stroke-width="16" stroke-linejoin="round" transform="translate(0 25)"/>
-  <path d="${FOOT}" fill="#000" fill-opacity=".25" stroke="#000" stroke-opacity=".25" stroke-width="16" stroke-linejoin="round" transform="translate(0 25)"/>
-  <path d="${FOOT}" fill="url(#t-zwischen)" stroke="url(#t-zwischen)" stroke-width="16" stroke-linejoin="round" transform="translate(0 20)"/>
-  <path d="${FOOT}" fill="url(#t-fussbett)" stroke="url(#t-fussbett)" stroke-width="16" stroke-linejoin="round" transform="translate(0 15)"/>
-  <path d="${FOOT}" fill="url(#t-fussbett)" stroke="url(#t-fussbett)" stroke-width="16" stroke-linejoin="round" transform="translate(0 8)"/>
-  <path d="${FOOT}" fill="#000" fill-opacity=".2" stroke="#000" stroke-opacity=".2" stroke-width="16" stroke-linejoin="round" transform="translate(0 12)"/>
+  <path d="${FOOT}" fill="url(#t-sohle)" stroke="url(#t-sohle)" stroke-width="16" stroke-linejoin="round" transform="translate(0 28)"/>
+  <path d="${FOOT}" fill="#000" fill-opacity=".25" stroke="#000" stroke-opacity=".25" stroke-width="16" stroke-linejoin="round" transform="translate(0 28)"/>
+  <path d="${FOOT}" fill="url(#t-zwischen)" stroke="url(#t-zwischen)" stroke-width="16" stroke-linejoin="round" transform="translate(0 22)"/>
+  <path d="${FOOT}" fill="url(#t-fussbett)" stroke="url(#t-fussbett)" stroke-width="16" stroke-linejoin="round" transform="translate(0 19)"/>
+  <path d="${FOOT}" fill="url(#t-fussbett)" stroke="url(#t-fussbett)" stroke-width="16" stroke-linejoin="round" transform="translate(0 10)"/>
+  <path d="${FOOT}" fill="#000" fill-opacity=".2" stroke="#000" stroke-opacity=".2" stroke-width="16" stroke-linejoin="round" transform="translate(0 15)"/>
   <path d="${FOOT}" fill="url(#t-fussbett)" stroke="url(#t-fussbett)" stroke-width="14" stroke-linejoin="round"/>
   <path d="${FOOT}" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linejoin="round" style="mix-blend-mode:soft-light"/>
   <path d="${FOOT}" fill="url(#t-fussbett)"/>
@@ -140,7 +151,7 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
 <g class="cfg-side" transform="translate(40 392) scale(.84)">
   <ellipse cx="400" cy="184" rx="360" ry="10" fill="#0b1a19" opacity=".22" filter="url(#blur)"/>
   <path d="${SOLE_SIDE}" fill="url(#t-sohle)"/>
-  <path d="M92 178H718" stroke="#000" stroke-opacity=".35" stroke-width="3" stroke-dasharray="12 9"/>
+  <path d="M92 177.5H718" stroke="#000" stroke-opacity=".35" stroke-width="2.5" stroke-dasharray="12 9"/>
   <path d="${SOLE_SIDE}" fill="url(#sideShade)" style="mix-blend-mode:soft-light"/>
   <path d="${MID_SIDE}" fill="url(#t-zwischen)"/>
   <path d="${MID_SIDE}" fill="url(#sideShade)" style="mix-blend-mode:soft-light"/>
@@ -150,7 +161,7 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
   ${strapSide}
 </g>
 <g class="cfg-labels" transform="translate(40 392) scale(.84)">
-  ${label(700, 126, 790, 104, 'Fußbett')}${label(712, 157, 790, 140, 'Zwischensohle')}${label(690, 173, 790, 176, 'Laufsohle')}
+  ${label(700, 126, 790, 104, 'Fußbett')}${label(712, 164, 790, 140, 'Zwischensohle')}${label(690, 174, 790, 176, 'Laufsohle')}
 </g>
 <text x="24" y="580" font-size="13" font-family="Rubik, sans-serif" fill="#566967" letter-spacing="1.5">DRAUFSICHT  ·  SEITENANSICHT</text>
 <text x="776" y="580" font-size="13" font-family="Rubik, sans-serif" fill="#00857e" text-anchor="end" font-weight="600">THeynis ${esc(model().name)}</text>
@@ -162,7 +173,7 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
   /* ── Chips ── */
   const renderChips = () => {
     chips.innerHTML = `<li><i style="background-image:url(${BASE + model().thumb});background-color:#f3f3f1"></i><span>Modell</span> <b>${esc(model().name)}</b></li>` +
-      cats().map(c => { const o = opt(c.id); return `<li><i style="background-image:url(${BASE + o.thumb})"></i><span>${esc(c.title)}</span> <b>${esc(o.name)}</b></li>`; }).join('');
+      cats().map(c => { const o = opt(c.id); return `<li><i style="${bg(o)}"></i><span>${esc(c.title)}</span> <b>${esc(o.name)}</b></li>`; }).join('');
   };
 
   /* ── Schritte ── */
@@ -189,7 +200,7 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
     } else if (s.id === 'done') {
       body.innerHTML = `<div class="cfg__step"><h3 class="cfg__step-h">Dein THeynis ${esc(model().name)}</h3><p class="cfg__hint">Bring deine Auswahl zur Beratung mit oder schick sie uns vorab. Die Maße nehmen wir im Geschäft per 3D-Scan.</p>
         <ul class="cfg__sum"><li><i style="background-image:url(${BASE + model().thumb});background-color:#f3f3f1"></i><div><small>Modell</small><b>${esc(model().name)}</b></div><button type="button" data-jump="0">ändern</button></li>
-        ${cats().map((c, k) => { const o = opt(c.id); return `<li><i style="background-image:url(${BASE + o.thumb})"></i><div><small>${esc(c.title)}</small><b>${esc(o.name)}</b></div><button type="button" data-jump="${k + 1}">ändern</button></li>`; }).join('')}</ul>
+        ${cats().map((c, k) => { const o = opt(c.id); return `<li><i style="${bg(o)}"></i><div><small>${esc(c.title)}</small><b>${esc(o.name)}</b></div><button type="button" data-jump="${k + 1}">ändern</button></li>`; }).join('')}</ul>
         <div class="cfg__done">
           <a class="btn btn--primary btn--lg" href="${requestHref()}"><span>Konfiguration anfragen</span><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
           <a class="btn btn--ghost" href="tel:+497211208575"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg><span>Termin für den 3D-Scan: 0721 1208575</span></a>
@@ -208,7 +219,7 @@ ${pattern('t-riemen', rid, 140)}${m === 'flip' ? pattern('t-band', 'baender', 90
       const o = opt(c.id);
       body.innerHTML = `<fieldset class="cfg__step"><legend>${esc(c.title)}</legend><p class="cfg__hint">${esc(c.hint)}</p>
         <p class="cfg__current">Gewählt: <b data-cur>${esc(o.name)}</b> · ${c.options.length} Varianten</p>
-        <div class="sw-grid">${c.options.map(x => `<label class="sw" title="${esc(x.name)}"><input type="radio" name="${c.id}" value="${x.id}"${x.id === o.id ? ' checked' : ''}><span class="sw__img" style="background-image:url(${BASE + x.thumb})"></span><span class="sw__name">${esc(x.name)}</span></label>`).join('')}</div></fieldset>`;
+        <div class="sw-grid">${c.options.map(x => `<label class="sw" title="${esc(x.name)}"><input type="radio" name="${c.id}" value="${x.id}"${x.id === o.id ? ' checked' : ''}><span class="sw__img" style="${bg(x)}"></span><span class="sw__name">${esc(x.name)}</span></label>`).join('')}</div></fieldset>`;
     }
     $$('input[type=radio]', body).forEach(inp => inp.addEventListener('change', onPick));
   };
